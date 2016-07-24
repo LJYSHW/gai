@@ -1,0 +1,23 @@
+{
+  "name": "regraph",
+  "version": "1.0.0",
+  "description": "开发环境",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/npm/npm.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "graceful-fs": "^4.1.3",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,306 @@
+[
+  {
+    "icon": "bra.png",
+    "team": "Brazil"
+  },
+  {
+    "icon": "ger.png",
+    "team": "Germany"
+  },
+  {
+    "icon": "ita.png",
+    "team": "Italy"
+  },
+  {
+    "icon": "arg.png",
+    "team": "Argentina"
+  },
+  {
+    "icon": "esp.png",
+    "team": "Spain"
+  },
+  {
+    "icon": "eng.png",
+    "team": "England"
+  },
+  {
+    "icon": "fra.png",
+    "team": "France"
+  },
+  {
+    "icon": "ned.png",
+    "team": "Netherlands"
+  },
+  {
+    "icon": "uru.png",
+    "team": "Uruguay"
+  },
+  {
+    "icon": "swe.png",
+    "team": "Sweden"
+  },
+  {
+    "icon": "rus.png",
+    "team": "Russia"
+  },
+  {
+    "icon": "srb.png",
+    "team": "Serbia And Montenegro"
+  },
+  {
+    "icon": "mex.png",
+    "team": "Mexico"
+  },
+  {
+    "icon": "bel.png",
+    "team": "Belgium"
+  },
+  {
+    "icon": "pol.png",
+    "team": "Poland"
+  },
+  {
+    "icon": "hun.png",
+    "team": "Hungary"
+  },
+  {
+    "icon": "por.png",
+    "team": "Portugal"
+  },
+  {
+    "icon": "cze.png",
+    "team": "Czech Republic"
+  },
+  {
+    "icon": "aut.png",
+    "team": "Austria"
+  },
+  {
+    "icon": "chi.png",
+    "team": "Chile"
+  },
+  {
+    "icon": "sui.png",
+    "team": "Switzerland"
+  },
+  {
+    "icon": "par.png",
+    "team": "Paraguay"
+  },
+  {
+    "icon": "usa.png",
+    "team": "USA"
+  },
+  {
+    "icon": "rou.png",
+    "team": "Romania"
+  },
+  {
+    "icon": "den.png",
+    "team": "Denmark"
+  },
+  {
+    "icon": "kor.png",
+    "team": "Korea Republic"
+  },
+  {
+    "icon": "cro.png",
+    "team": "Croatia"
+  },
+  {
+    "icon": "col.png",
+    "team": "Colombia"
+  },
+  {
+    "icon": "crc.png",
+    "team": "Costa Rica"
+  },
+  {
+    "icon": "sco.png",
+    "team": "Scotland"
+  },
+  {
+    "icon": "cmr.png",
+    "team": "Cameroon"
+  },
+  {
+    "icon": "nga.png",
+    "team": "Nigeria"
+  },
+  {
+    "icon": "bul.png",
+    "team": "Bulgaria"
+  },
+  {
+    "icon": "tur.png",
+    "team": "Turkey"
+  },
+  {
+    "icon": "jpn.png",
+    "team": "Japan"
+  },
+  {
+    "icon": "gha.png",
+    "team": "Ghana"
+  },
+  {
+    "icon": "per.png",
+    "team": "Peru"
+  },
+  {
+    "icon": "irl.png",
+    "team": "Republic of Ireland"
+  },
+  {
+    "icon": "nir.png",
+    "team": "Northern Ireland"
+  },
+  {
+    "icon": "ecu.png",
+    "team": "Ecuador"
+  },
+  {
+    "icon": "alg.png",
+    "team": "Algeria"
+  },
+  {
+    "icon": "civ.png",
+    "team": "Côte d'Ivoire"
+  },
+  {
+    "icon": "rsa.png",
+    "team": "South Africa"
+  },
+  {
+    "icon": "mar.png",
+    "team": "Morocco"
+  },
+  {
+    "icon": "nor.png",
+    "team": "Norway"
+  },
+  {
+    "icon": "sen.png",
+    "team": "Senegal"
+  },
+  {
+    "icon": "aus.png",
+    "team": "Australia"
+  },
+  {
+    "icon": "gre.png",
+    "team": "Greece"
+  },
+  {
+    "icon": "ksa.png",
+    "team": "Saudi Arabia"
+  },
+  {
+    "icon": "ukr.png",
+    "team": "Ukraine"
+  },
+  {
+    "icon": "tun.png",
+    "team": "Tunisia"
+  },
+  {
+    "icon": "wal.png",
+    "team": "Wales"
+  },
+  {
+    "icon": "irn.png",
+    "team": "Iran"
+  },
+  {
+    "icon": "cub.png",
+    "team": "Cuba"
+  },
+  {
+    "icon": "svk.png",
+    "team": "Slovakia"
+  },
+  {
+    "icon": "svn.png",
+    "team": "Slovenia"
+  },
+  {
+    "icon": "prk.png",
+    "team": "Korea DPR"
+  },
+  {
+    "icon": "bih.png",
+    "team": "Bosnia and Herzegovina"
+  },
+  {
+    "icon": "jam.png",
+    "team": "Jamaica"
+  },
+  {
+    "icon": "nzl.png",
+    "team": "New Zealand"
+  },
+  {
+    "icon": "hon.png",
+    "team": "Honduras"
+  },
+  {
+    "icon": "ang.png",
+    "team": "Angola"
+  },
+  {
+    "icon": "isr.png",
+    "team": "Israel"
+  },
+  {
+    "icon": "egy.png",
+    "team": "Egypt"
+  },
+  {
+    "icon": "kuw.png",
+    "team": "Kuwait"
+  },
+  {
+    "icon": "tri.png",
+    "team": "Trinidad and Tobago"
+  },
+  {
+    "icon": "bol.png",
+    "team": "Bolivia"
+  },
+  {
+    "icon": "idn.png",
+    "team": "Indonesia"
+  },
+  {
+    "icon": "irq.png",
+    "team": "Iraq"
+  },
+  {
+    "icon": "tog.png",
+    "team": "Togo"
+  },
+  {
+    "icon": "can.png",
+    "team": "Canada"
+  },
+  {
+    "icon": "uae.png",
+    "team": "United Arab Emirates"
+  },
+  {
+    "icon": "chn.png",
+    "team": "China PR"
+  },
+  {
+    "icon": "hai.png",
+    "team": "Haiti"
+  },
+  {
+    "icon": "cod.png",
+    "team": "Congo DR"
+  },
+  {
+    "icon": "slv.png",
+    "team": "Ei Salvador"
+  }
+]

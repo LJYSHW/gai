@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>team data</title>
+	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="css/detail.css" />
+</head>
+<body>
+<!-- Header -->
+	<header id="header">
+		<h1 id="logo"><a href="index.html">TEAM DATA</a></h1>
+		<nav id="nav">
+			<ul>
+				<li><a href="index.html">HOME</a></li>
+				<li><a href="index.html#two">TEAM</a></li>
+				<li><a id="menu-overview" href="javascript:void(0);">OVERVIEW</a></li>
+				<li><a href="prediction.html">PREEDICTION</a></li>
+				<li><a href="compare2.html">COMPARE</a></li>
+			</ul>
+		</nav>
+	</header>
+<!-- overview -->
+	<section id="overview" style="display:none;">
+		<div class="row">
+			<ul class="col-md-2 js-segment js-segment-A">
+				<li class="title">A</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-B">
+				<li class="title">B</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-C">
+				<li class="title">C</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-D">
+				<li class="title">D</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-E">
+				<li class="title">E</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-F">
+				<li class="title">F</li>
+			</ul>
+		</div>
+		<div class="row">
+			<ul class="col-md-2 js-segment js-segment-G">
+				<li class="title">G</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-H">
+				<li class="title">H</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-I">
+				<li class="title">I</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-J">
+				<li class="title">J</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-K">
+				<li class="title">K</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-L">
+				<li class="title">L</li>
+			</ul>
+		</div>
+		<div class="row">
+			<ul class="col-md-2 js-segment js-segment-M">
+				<li class="title">M</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-N">
+				<li class="title">N</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-O">
+				<li class="title">O</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-P">
+				<li class="title">P</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-Q">
+				<li class="title">Q</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-R">
+				<li class="title">R</li>
+			</ul>
+		</div>
+		<div class="row">
+			<ul class="col-md-2 js-segment js-segment-S">
+				<li class="title">S</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-T">
+				<li class="title">T</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-U">
+				<li class="title">U</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-V">
+				<li class="title">V</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-W">
+				<li class="title">W</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-X">
+				<li class="title">X</li>
+			</ul>
+		</div>
+		<div class="row">
+			<ul class="col-md-2 js-segment js-segment-Y">
+				<li class="title">Y</li>
+			</ul>
+			<ul class="col-md-2 js-segment js-segment-Z">
+				<li class="title">Z</li>
+			</ul>
+		</div>
+		
+	</section>
+<!-- /overview -->
+<!-- chart-1 -->
+	<div class="container-fluid" id="charts">
+		<div class="panel ">
+			<div class="panel-heading">
+				<h4 class="js-teamName"></h4>
+
+			</div>
+			<div class="panel-body container-fluid">
+				<div class="row">
+					<div id="chart-3" class="chart-canvas col-md-12 col-xs-12"></div>
+				</div>
+				<div class="row" style="text-algin:center;">
+					<!-- <div id="chart-1" class="chart-canvas col-md-6"></div> -->
+					<div id="chart-line" class="col-md-12 col-xs-12">
+						<h4>TOTAL:</h4>
+						<div style="width:100%">
+							<span class="chart-line-w">W</span>
+							<span class="chart-line-d">D</span>
+							<span class="chart-line-l">L</span>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<!-- <div id="chart-1" class="chart-canvas col-md-6"></div> -->
+					<div id="chart-2" class="chart-canvas col-md-12 col-xs-12"></div>
+				</div>
+				<div style="margin-top:20px;">
+					EDITION:
+					<select id="select-EDITION" style="width:200px;display:inline;">
+						<option></option>
+					</select>
+					<div id="chart-4" class="chart-canvas" style="width:100%;"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!-- /chart-1 -->
+	<script src="assets/jquery-1.11.1.min.js"></script>
+	<script src="assets/lodash.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/jquery.dropotron.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/skel.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/echarts/echarts.min.js"></script>
+	<script src="assets/datatables/datatables.min.js"></script>
+	<script src="assets/js/main.js"></script>
+	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="js/common.js"></script>
+	<script src="js/detail.js"></script>
+
+</body>
+</html>

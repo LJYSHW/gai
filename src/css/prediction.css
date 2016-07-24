@@ -1,0 +1,33 @@
+
+#prediction{
+	margin-top: 80px;
+	width: 100%;
+}
+#prediction .panel{background-color: rgba(255,255,255,.1);}
+.panel-header{padding: 6px;border-bottom:1px solid #1C1D26;}
+.panel-header h3{margin: 0;}
+
+.zd .kd .bl{text-align: center;}
+.imgbox{text-align: center;}
+.bl ul{list-style: none;text-align: center;}
+.bl ul li {
+	display: inline-block;width: 30%;
+	border: 1px solid rgba(255,255,255,0.4);
+	padding: 20px 0;margin: 5px;
+}
+.bl ul li .number{
+	font-size: 20px;font-weight: bold;
+}
+.analyse-bl{margin-top:40px; }
+.analyse-bl li{
+	padding: 10px;
+	background: rgba(255,255,255,.4);
+	margin: 15px;
+	font-size: 20px;font-weight: bold;
+	text-align: center;
+	color: #2BFDE2;
+}
+
+#chart-panel{height: 280px;background: rgba(255,255,255,.8);}
+
+.team-flag{width: 100px;}

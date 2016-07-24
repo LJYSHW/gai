@@ -1,0 +1,37 @@
+ #overview{
+ 	width: 100%;
+ 	position: fixed;
+ 	min-height: 200px;
+ 	top: 60px;
+ 	z-index: 100;
+ 	background-color: rgba(255,255,255,0.8);
+ 	color: #171820;
+ 	max-height: 630px;
+ 	overflow-y: scroll;
+ }
+
+#overview .title{
+	color: rgb(228, 76, 101);
+	font-size: 16px;
+	font-weight: bold;
+}
+#overview a.text{color: #171820;font-weight: bold;}
+#overview li{padding-left: 10px;list-style: none;}
+
+#charts{
+	margin-top: 80px;
+	width: 100%;
+}
+
+#charts .panel{background-color: rgba(255,255,255,.1);}
+.chart-canvas{margin: 0 auto;height: 300px;}
+
+#chart-line{margin: 50px 0;}
+#chart-line div{font-size:0;}
+#chart-line span{display: inline-block;background-color: #3FD4A9;
+	height: 50px;margin: 0;
+	font-size: 16px;font-weight: bold;line-height: 50px;text-align: center;
+}
+#chart-line .chart-line-w{background-color: rgba(63,212,169,0.8);}
+#chart-line .chart-line-d{background-color: rgba(63,212,169,0.4);}
+#chart-line .chart-line-l{background-color: rgba(63,212,169,0.1);}

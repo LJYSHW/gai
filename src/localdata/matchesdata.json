@@ -1,0 +1,8302 @@
+[
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "1",
+    "DATE": "6/12/14",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CROATIA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "2",
+    "DATE": "6/13/14",
+    "TEAM1": "MEXICO",
+    "TEAM2": "CAMEROON",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "3",
+    "DATE": "6/13/14",
+    "TEAM1": "SPAIN",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "1",
+    "T2G": "5",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "4",
+    "DATE": "6/13/14",
+    "TEAM1": "CHILE",
+    "TEAM2": "AUSTRALIA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "5",
+    "DATE": "6/14/14",
+    "TEAM1": "COLOMBIA",
+    "TEAM2": "GREECE",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "6",
+    "DATE": "6/14/14",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "COSTA RICA",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "7",
+    "DATE": "6/14/14",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "ITALY",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "8",
+    "DATE": "6/14/14",
+    "TEAM1": "CÔTE D'IVOIRE",
+    "TEAM2": "JAPAN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "9",
+    "DATE": "6/15/14",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "ECUADOR",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "10",
+    "DATE": "6/15/14",
+    "TEAM1": "FRANCE",
+    "TEAM2": "HONDURAS",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "11",
+    "DATE": "6/15/14",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BOSNIA AND HERZEGOVINA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "12",
+    "DATE": "6/16/14",
+    "TEAM1": "GERMANY",
+    "TEAM2": "PORTUGAL",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "13",
+    "DATE": "6/16/14",
+    "TEAM1": "IRAN",
+    "TEAM2": "NIGERIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "14",
+    "DATE": "6/16/14",
+    "TEAM1": "GHANA",
+    "TEAM2": "USA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "15",
+    "DATE": "6/17/14",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "ALGERIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "16",
+    "DATE": "6/17/14",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "MEXICO",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "17",
+    "DATE": "6/17/14",
+    "TEAM1": "RUSSIA",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "18",
+    "DATE": "6/18/14",
+    "TEAM1": "AUSTRALIA",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "19",
+    "DATE": "6/18/14",
+    "TEAM1": "SPAIN",
+    "TEAM2": "CHILE",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "20",
+    "DATE": "6/18/14",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "CROATIA",
+    "T1G": "0",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "21",
+    "DATE": "6/19/14",
+    "TEAM1": "COLOMBIA",
+    "TEAM2": "CÔTE D'IVOIRE",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "22",
+    "DATE": "6/19/14",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "ENGLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "23",
+    "DATE": "6/19/14",
+    "TEAM1": "JAPAN",
+    "TEAM2": "GREECE",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "24",
+    "DATE": "6/20/14",
+    "TEAM1": "ITALY",
+    "TEAM2": "COSTA RICA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "25",
+    "DATE": "6/20/14",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "FRANCE",
+    "T1G": "2",
+    "T2G": "5",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "26",
+    "DATE": "6/20/14",
+    "TEAM1": "HONDURAS",
+    "TEAM2": "ECUADOR",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "27",
+    "DATE": "6/21/14",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "IRAN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "28",
+    "DATE": "6/21/14",
+    "TEAM1": "GERMANY",
+    "TEAM2": "GHANA",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "29",
+    "DATE": "6/21/14",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "BOSNIA AND HERZEGOVINA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "30",
+    "DATE": "6/22/14",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "RUSSIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "31",
+    "DATE": "6/22/14",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "ALGERIA",
+    "T1G": "2",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "32",
+    "DATE": "6/22/14",
+    "TEAM1": "USA",
+    "TEAM2": "PORTUGAL",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "33",
+    "DATE": "6/23/14",
+    "TEAM1": "AUSTRALIA",
+    "TEAM2": "SPAIN",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "34",
+    "DATE": "6/23/14",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "CHILE",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "35",
+    "DATE": "6/23/14",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "BRAZIL",
+    "T1G": "1",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "36",
+    "DATE": "6/23/14",
+    "TEAM1": "CROATIA",
+    "TEAM2": "MEXICO",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "37",
+    "DATE": "6/24/14",
+    "TEAM1": "ITALY",
+    "TEAM2": "URUGUAY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "38",
+    "DATE": "6/24/14",
+    "TEAM1": "COSTA RICA",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "39",
+    "DATE": "6/24/14",
+    "TEAM1": "JAPAN",
+    "TEAM2": "COLOMBIA",
+    "T1G": "1",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "40",
+    "DATE": "6/24/14",
+    "TEAM1": "GREECE",
+    "TEAM2": "CÔTE D'IVOIRE",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "41",
+    "DATE": "6/25/14",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "ARGENTINA",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "42",
+    "DATE": "6/25/14",
+    "TEAM1": "BOSNIA AND HERZEGOVINA",
+    "TEAM2": "IRAN",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "43",
+    "DATE": "6/25/14",
+    "TEAM1": "HONDURAS",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "44",
+    "DATE": "6/25/14",
+    "TEAM1": "ECUADOR",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "45",
+    "DATE": "6/26/14",
+    "TEAM1": "USA",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "46",
+    "DATE": "6/26/14",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "GHANA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "47",
+    "DATE": "6/26/14",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "BELGIUM",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "48",
+    "DATE": "6/26/14",
+    "TEAM1": "ALGERIA",
+    "TEAM2": "RUSSIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "49",
+    "DATE": "6/28/14",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CHILE",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "50",
+    "DATE": "6/28/14",
+    "TEAM1": "COLOMBIA",
+    "TEAM2": "URUGUAY",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "51",
+    "DATE": "6/29/14",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "52",
+    "DATE": "6/29/14",
+    "TEAM1": "COSTA RICA",
+    "TEAM2": "GREECE",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "53",
+    "DATE": "6/30/14",
+    "TEAM1": "FRANCE",
+    "TEAM2": "NIGERIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "54",
+    "DATE": "6/30/14",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ALGERIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "55",
+    "DATE": "7/1/14",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "56",
+    "DATE": "7/1/14",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "USA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "57",
+    "DATE": "7/4/14",
+    "TEAM1": "FRANCE",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "58",
+    "DATE": "7/4/14",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "COLOMBIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "59",
+    "DATE": "7/5/14",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BELGIUM",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "60",
+    "DATE": "7/5/14",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "COSTA RICA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "61",
+    "DATE": "7/8/14",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "GERMANY",
+    "T1G": "1",
+    "T2G": "7",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "62",
+    "DATE": "7/9/14",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "ARGENTINA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "63",
+    "DATE": "7/12/14",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 2014",
+    "ROUND": "64",
+    "DATE": "7/13/14",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "1",
+    "DATE": "6/11/10",
+    "TEAM1": "SOUTH AFRICA",
+    "TEAM2": "MEXICO",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "2",
+    "DATE": "6/11/10",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "3",
+    "DATE": "6/12/10",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "GREECE",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "4",
+    "DATE": "6/12/10",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "NIGERIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "5",
+    "DATE": "6/12/10",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "USA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "6",
+    "DATE": "6/13/10",
+    "TEAM1": "ALGERIA",
+    "TEAM2": "SLOVENIA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "7",
+    "DATE": "6/13/10",
+    "TEAM1": "SERBIA AND MONTENEGRO",
+    "TEAM2": "GHANA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "8",
+    "DATE": "6/13/10",
+    "TEAM1": "GERMANY",
+    "TEAM2": "AUSTRALIA",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "9",
+    "DATE": "6/14/10",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "DENMARK",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "10",
+    "DATE": "6/14/10",
+    "TEAM1": "JAPAN",
+    "TEAM2": "CAMEROON",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "11",
+    "DATE": "6/14/10",
+    "TEAM1": "ITALY",
+    "TEAM2": "PARAGUAY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "12",
+    "DATE": "6/15/10",
+    "TEAM1": "NEW ZEALAND",
+    "TEAM2": "SLOVAKIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "13",
+    "DATE": "6/15/10",
+    "TEAM1": "CÔTE D'IVOIRE",
+    "TEAM2": "PORTUGAL",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "14",
+    "DATE": "6/15/10",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "KOREA DPR",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "15",
+    "DATE": "6/16/10",
+    "TEAM1": "HONDURAS",
+    "TEAM2": "CHILE",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "16",
+    "DATE": "6/16/10",
+    "TEAM1": "SPAIN",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "17",
+    "DATE": "6/16/10",
+    "TEAM1": "SOUTH AFRICA",
+    "TEAM2": "URUGUAY",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "18",
+    "DATE": "6/17/10",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "19",
+    "DATE": "6/17/10",
+    "TEAM1": "GREECE",
+    "TEAM2": "NIGERIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "20",
+    "DATE": "6/17/10",
+    "TEAM1": "FRANCE",
+    "TEAM2": "MEXICO",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "21",
+    "DATE": "6/18/10",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SERBIA AND MONTENEGRO",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "22",
+    "DATE": "6/18/10",
+    "TEAM1": "SLOVENIA",
+    "TEAM2": "USA",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "23",
+    "DATE": "6/18/10",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "ALGERIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "24",
+    "DATE": "6/19/10",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "JAPAN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "25",
+    "DATE": "6/19/10",
+    "TEAM1": "GHANA",
+    "TEAM2": "AUSTRALIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "26",
+    "DATE": "6/19/10",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "DENMARK",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "27",
+    "DATE": "6/20/10",
+    "TEAM1": "SLOVENIA",
+    "TEAM2": "PARAGUAY",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "28",
+    "DATE": "6/20/10",
+    "TEAM1": "ITALY",
+    "TEAM2": "NEW ZEALAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "29",
+    "DATE": "6/20/10",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CÔTE D'IVOIRE",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "30",
+    "DATE": "6/21/10",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "KOREA DPR",
+    "T1G": "7",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "31",
+    "DATE": "6/21/10",
+    "TEAM1": "CHILE",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "32",
+    "DATE": "6/21/10",
+    "TEAM1": "SPAIN",
+    "TEAM2": "HONDURAS",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "33",
+    "DATE": "6/22/10",
+    "TEAM1": "MEXICO",
+    "TEAM2": "URUGUAY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "34",
+    "DATE": "6/22/10",
+    "TEAM1": "FRANCE",
+    "TEAM2": "SOUTH AFRICA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "35",
+    "DATE": "6/22/10",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "36",
+    "DATE": "6/22/10",
+    "TEAM1": "GREECE",
+    "TEAM2": "ARGENTINA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "37",
+    "DATE": "6/23/10",
+    "TEAM1": "SLOVENIA",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "38",
+    "DATE": "6/23/10",
+    "TEAM1": "USA",
+    "TEAM2": "ALGERIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "39",
+    "DATE": "6/23/10",
+    "TEAM1": "GHANA",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "40",
+    "DATE": "6/23/10",
+    "TEAM1": "AUSTRALIA",
+    "TEAM2": "SERBIA AND MONTENEGRO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "41",
+    "DATE": "6/24/10",
+    "TEAM1": "SLOVENIA",
+    "TEAM2": "ITALY",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "42",
+    "DATE": "6/24/10",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "NEW ZEALAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "43",
+    "DATE": "6/24/10",
+    "TEAM1": "DENMARK",
+    "TEAM2": "JAPAN",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "44",
+    "DATE": "6/24/10",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "45",
+    "DATE": "6/25/10",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "BRAZIL",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "46",
+    "DATE": "6/25/10",
+    "TEAM1": "KOREA DPR",
+    "TEAM2": "CÔTE D'IVOIRE",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "47",
+    "DATE": "6/25/10",
+    "TEAM1": "CHILE",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "48",
+    "DATE": "6/25/10",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "HONDURAS",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "49",
+    "DATE": "6/26/10",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "50",
+    "DATE": "6/26/10",
+    "TEAM1": "USA",
+    "TEAM2": "GHANA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "51",
+    "DATE": "6/27/10",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ENGLAND",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "52",
+    "DATE": "6/27/10",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "MEXICO",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "53",
+    "DATE": "6/28/10",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "SLOVAKIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "54",
+    "DATE": "6/28/10",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CHILE",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "55",
+    "DATE": "6/29/10",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "JAPAN",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "56",
+    "DATE": "6/29/10",
+    "TEAM1": "SPAIN",
+    "TEAM2": "PORTUGAL",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "57",
+    "DATE": "7/2/10",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "BRAZIL",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "58",
+    "DATE": "7/2/10",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "GHANA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "59",
+    "DATE": "7/3/10",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "60",
+    "DATE": "7/3/10",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "SPAIN",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "61",
+    "DATE": "7/6/10",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "62",
+    "DATE": "7/7/10",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SPAIN",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "63",
+    "DATE": "7/10/10",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "GERMANY",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Africa 2010",
+    "ROUND": "64",
+    "DATE": "7/11/10",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "SPAIN",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "1",
+    "DATE": "6/9/06",
+    "TEAM1": "GERMANY",
+    "TEAM2": "COSTA RICA",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "2",
+    "DATE": "6/9/06",
+    "TEAM1": "POLAND",
+    "TEAM2": "ECUADOR",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "3",
+    "DATE": "6/10/06",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "PARAGUAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "4",
+    "DATE": "6/10/06",
+    "TEAM1": "TRINIDAD AND TOBAGO",
+    "TEAM2": "SWEDEN",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "5",
+    "DATE": "6/10/06",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "CÔTE D'IVOIRE",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "6",
+    "DATE": "6/11/06",
+    "TEAM1": "SERBIA AND MONTENEGRO",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "7",
+    "DATE": "6/11/06",
+    "TEAM1": "MEXICO",
+    "TEAM2": "IRAN",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "8",
+    "DATE": "6/11/06",
+    "TEAM1": "ANGOLA",
+    "TEAM2": "PORTUGAL",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "9",
+    "DATE": "6/12/06",
+    "TEAM1": "AUSTRALIA",
+    "TEAM2": "JAPAN",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "10",
+    "DATE": "6/12/06",
+    "TEAM1": "USA",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "11",
+    "DATE": "6/12/06",
+    "TEAM1": "ITALY",
+    "TEAM2": "GHANA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "12",
+    "DATE": "6/13/06",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "TOGO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "13",
+    "DATE": "6/13/06",
+    "TEAM1": "FRANCE",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "14",
+    "DATE": "6/13/06",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CROATIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "15",
+    "DATE": "6/14/06",
+    "TEAM1": "SPAIN",
+    "TEAM2": "UKRAINE",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "16",
+    "DATE": "6/14/06",
+    "TEAM1": "TUNISIA",
+    "TEAM2": "SAUDI ARABIA",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "17",
+    "DATE": "6/14/06",
+    "TEAM1": "GERMANY",
+    "TEAM2": "POLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "18",
+    "DATE": "6/15/06",
+    "TEAM1": "ECUADOR",
+    "TEAM2": "COSTA RICA",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "19",
+    "DATE": "6/15/06",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "TRINIDAD AND TOBAGO",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "20",
+    "DATE": "6/15/06",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "PARAGUAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "21",
+    "DATE": "6/16/06",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "SERBIA AND MONTENEGRO",
+    "T1G": "6",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "22",
+    "DATE": "6/16/06",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "CÔTE D'IVOIRE",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "23",
+    "DATE": "6/16/06",
+    "TEAM1": "MEXICO",
+    "TEAM2": "ANGOLA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "24",
+    "DATE": "6/17/06",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "IRAN",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "25",
+    "DATE": "6/17/06",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "GHANA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "26",
+    "DATE": "6/17/06",
+    "TEAM1": "ITALY",
+    "TEAM2": "USA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "27",
+    "DATE": "6/18/06",
+    "TEAM1": "JAPAN",
+    "TEAM2": "CROATIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "28",
+    "DATE": "6/18/06",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "AUSTRALIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "29",
+    "DATE": "6/18/06",
+    "TEAM1": "FRANCE",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "30",
+    "DATE": "6/19/06",
+    "TEAM1": "TOGO",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "31",
+    "DATE": "6/19/06",
+    "TEAM1": "SAUDI ARABIA",
+    "TEAM2": "UKRAINE",
+    "T1G": "0",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "32",
+    "DATE": "6/19/06",
+    "TEAM1": "SPAIN",
+    "TEAM2": "TUNISIA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "33",
+    "DATE": "6/20/06",
+    "TEAM1": "ECUADOR",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "34",
+    "DATE": "6/20/06",
+    "TEAM1": "COSTA RICA",
+    "TEAM2": "POLAND",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "35",
+    "DATE": "6/20/06",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "ENGLAND",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "36",
+    "DATE": "6/20/06",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "TRINIDAD AND TOBAGO",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "37",
+    "DATE": "6/21/06",
+    "TEAM1": "IRAN",
+    "TEAM2": "ANGOLA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "38",
+    "DATE": "6/21/06",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "39",
+    "DATE": "6/21/06",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "ARGENTINA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "40",
+    "DATE": "6/21/06",
+    "TEAM1": "CÔTE D'IVOIRE",
+    "TEAM2": "SERBIA AND MONTENEGRO",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "41",
+    "DATE": "6/22/06",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "ITALY",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "42",
+    "DATE": "6/22/06",
+    "TEAM1": "GHANA",
+    "TEAM2": "USA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "43",
+    "DATE": "6/22/06",
+    "TEAM1": "JAPAN",
+    "TEAM2": "BRAZIL",
+    "T1G": "1",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "44",
+    "DATE": "6/22/06",
+    "TEAM1": "CROATIA",
+    "TEAM2": "AUSTRALIA",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "45",
+    "DATE": "6/23/06",
+    "TEAM1": "UKRAINE",
+    "TEAM2": "TUNISIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "46",
+    "DATE": "6/23/06",
+    "TEAM1": "SAUDI ARABIA",
+    "TEAM2": "SPAIN",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "47",
+    "DATE": "6/23/06",
+    "TEAM1": "TOGO",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "48",
+    "DATE": "6/23/06",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "49",
+    "DATE": "6/24/06",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SWEDEN",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "50",
+    "DATE": "6/24/06",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "51",
+    "DATE": "6/25/06",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "ECUADOR",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "52",
+    "DATE": "6/25/06",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "53",
+    "DATE": "6/26/06",
+    "TEAM1": "ITALY",
+    "TEAM2": "AUSTRALIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "54",
+    "DATE": "6/26/06",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "UKRAINE",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "55",
+    "DATE": "6/27/06",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "GHANA",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "56",
+    "DATE": "6/27/06",
+    "TEAM1": "SPAIN",
+    "TEAM2": "FRANCE",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "57",
+    "DATE": "6/30/06",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "58",
+    "DATE": "6/30/06",
+    "TEAM1": "ITALY",
+    "TEAM2": "UKRAINE",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "59",
+    "DATE": "7/1/06",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "PORTUGAL",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "60",
+    "DATE": "7/1/06",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "61",
+    "DATE": "7/4/06",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ITALY",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "62",
+    "DATE": "7/5/06",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "63",
+    "DATE": "7/8/06",
+    "TEAM1": "GERMANY",
+    "TEAM2": "PORTUGAL",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Germany 2006",
+    "ROUND": "64",
+    "DATE": "7/9/06",
+    "TEAM1": "ITALY",
+    "TEAM2": "FRANCE",
+    "T1G": "1",
+    "T2G": "1",
+    "other": "ITALY WIN"
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "1",
+    "DATE": "5/31/02",
+    "TEAM1": "FRANCE",
+    "TEAM2": "SENEGAL",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "2",
+    "DATE": "6/1/02",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "DENMARK",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "3",
+    "DATE": "6/1/02",
+    "TEAM1": "REPUBLIC OF IRELAND",
+    "TEAM2": "CAMEROON",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "4",
+    "DATE": "6/1/02",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SAUDI ARABIA",
+    "T1G": "8",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "5",
+    "DATE": "6/2/02",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "NIGERIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "6",
+    "DATE": "6/2/02",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "SOUTH AFRICA",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "7",
+    "DATE": "6/2/02",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "SWEDEN",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "8",
+    "DATE": "6/2/02",
+    "TEAM1": "SPAIN",
+    "TEAM2": "SLOVENIA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "9",
+    "DATE": "6/3/02",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "TURKEY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "10",
+    "DATE": "6/3/02",
+    "TEAM1": "ITALY",
+    "TEAM2": "ECUADOR",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "11",
+    "DATE": "6/3/02",
+    "TEAM1": "CROATIA",
+    "TEAM2": "MEXICO",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "12",
+    "DATE": "6/4/02",
+    "TEAM1": "CHINA PR",
+    "TEAM2": "COSTA RICA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "13",
+    "DATE": "6/4/02",
+    "TEAM1": "JAPAN",
+    "TEAM2": "BELGIUM",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "14",
+    "DATE": "6/4/02",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "POLAND",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "15",
+    "DATE": "6/5/02",
+    "TEAM1": "RUSSIA",
+    "TEAM2": "TUNISIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "16",
+    "DATE": "6/5/02",
+    "TEAM1": "USA",
+    "TEAM2": "PORTUGAL",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "17",
+    "DATE": "6/5/02",
+    "TEAM1": "GERMANY",
+    "TEAM2": "REPUBLIC OF IRELAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "18",
+    "DATE": "6/6/02",
+    "TEAM1": "DENMARK",
+    "TEAM2": "SENEGAL",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "19",
+    "DATE": "6/6/02",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "SAUDI ARABIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "20",
+    "DATE": "6/6/02",
+    "TEAM1": "FRANCE",
+    "TEAM2": "URUGUAY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "21",
+    "DATE": "6/7/02",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "NIGERIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "22",
+    "DATE": "6/7/02",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "23",
+    "DATE": "6/7/02",
+    "TEAM1": "SPAIN",
+    "TEAM2": "PARAGUAY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "24",
+    "DATE": "6/8/02",
+    "TEAM1": "SOUTH AFRICA",
+    "TEAM2": "SLOVENIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "25",
+    "DATE": "6/8/02",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CHINA PR",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "26",
+    "DATE": "6/8/02",
+    "TEAM1": "ITALY",
+    "TEAM2": "CROATIA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "27",
+    "DATE": "6/9/02",
+    "TEAM1": "COSTA RICA",
+    "TEAM2": "TURKEY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "28",
+    "DATE": "6/9/02",
+    "TEAM1": "JAPAN",
+    "TEAM2": "RUSSIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "29",
+    "DATE": "6/9/02",
+    "TEAM1": "MEXICO",
+    "TEAM2": "ECUADOR",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "30",
+    "DATE": "6/10/02",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "USA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "31",
+    "DATE": "6/10/02",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "POLAND",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "32",
+    "DATE": "6/10/02",
+    "TEAM1": "TUNISIA",
+    "TEAM2": "BELGIUM",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "33",
+    "DATE": "6/11/02",
+    "TEAM1": "DENMARK",
+    "TEAM2": "FRANCE",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "34",
+    "DATE": "6/11/02",
+    "TEAM1": "SENEGAL",
+    "TEAM2": "URUGUAY",
+    "T1G": "3",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "35",
+    "DATE": "6/11/02",
+    "TEAM1": "SAUDI ARABIA",
+    "TEAM2": "REPUBLIC OF IRELAND",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "36",
+    "DATE": "6/11/02",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "37",
+    "DATE": "6/12/02",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "ARGENTINA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "38",
+    "DATE": "6/12/02",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "39",
+    "DATE": "6/12/02",
+    "TEAM1": "SLOVENIA",
+    "TEAM2": "PARAGUAY",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "40",
+    "DATE": "6/12/02",
+    "TEAM1": "SOUTH AFRICA",
+    "TEAM2": "SPAIN",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "41",
+    "DATE": "6/13/02",
+    "TEAM1": "COSTA RICA",
+    "TEAM2": "BRAZIL",
+    "T1G": "2",
+    "T2G": "5",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "42",
+    "DATE": "6/13/02",
+    "TEAM1": "TURKEY",
+    "TEAM2": "CHINA PR",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "43",
+    "DATE": "6/13/02",
+    "TEAM1": "ECUADOR",
+    "TEAM2": "CROATIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "44",
+    "DATE": "6/13/02",
+    "TEAM1": "MEXICO",
+    "TEAM2": "ITALY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "45",
+    "DATE": "6/14/02",
+    "TEAM1": "TUNISIA",
+    "TEAM2": "JAPAN",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "46",
+    "DATE": "6/14/02",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "47",
+    "DATE": "6/14/02",
+    "TEAM1": "POLAND",
+    "TEAM2": "USA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "48",
+    "DATE": "6/14/02",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "RUSSIA",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "49",
+    "DATE": "6/15/02",
+    "TEAM1": "DENMARK",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "50",
+    "DATE": "6/15/02",
+    "TEAM1": "GERMANY",
+    "TEAM2": "PARAGUAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "51",
+    "DATE": "6/16/02",
+    "TEAM1": "SPAIN",
+    "TEAM2": "REPUBLIC OF IRELAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "52",
+    "DATE": "6/16/02",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "SENEGAL",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "53",
+    "DATE": "6/17/02",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "BELGIUM",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "54",
+    "DATE": "6/17/02",
+    "TEAM1": "MEXICO",
+    "TEAM2": "USA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "55",
+    "DATE": "6/18/02",
+    "TEAM1": "JAPAN",
+    "TEAM2": "TURKEY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "56",
+    "DATE": "6/18/02",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "ITALY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "57",
+    "DATE": "6/21/02",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "BRAZIL",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "58",
+    "DATE": "6/21/02",
+    "TEAM1": "GERMANY",
+    "TEAM2": "USA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "59",
+    "DATE": "6/22/02",
+    "TEAM1": "SENEGAL",
+    "TEAM2": "TURKEY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "60",
+    "DATE": "6/22/02",
+    "TEAM1": "SPAIN",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "61",
+    "DATE": "6/25/02",
+    "TEAM1": "GERMANY",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "62",
+    "DATE": "6/26/02",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "TURKEY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "63",
+    "DATE": "6/29/02",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "TURKEY",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Korea/Japan 2002",
+    "ROUND": "64",
+    "DATE": "6/30/02",
+    "TEAM1": "GERMANY",
+    "TEAM2": "BRAZIL",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "1",
+    "DATE": "6/10/98",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SCOTLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "2",
+    "DATE": "6/10/98",
+    "TEAM1": "MOROCCO",
+    "TEAM2": "NORWAY",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "3",
+    "DATE": "6/11/98",
+    "TEAM1": "ITALY",
+    "TEAM2": "CHILE",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "4",
+    "DATE": "6/11/98",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "AUSTRIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "5",
+    "DATE": "6/12/98",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "BULGARIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "6",
+    "DATE": "6/12/98",
+    "TEAM1": "SAUDI ARABIA",
+    "TEAM2": "DENMARK",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "7",
+    "DATE": "6/12/98",
+    "TEAM1": "FRANCE",
+    "TEAM2": "SOUTH AFRICA",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "8",
+    "DATE": "6/13/98",
+    "TEAM1": "SPAIN",
+    "TEAM2": "NIGERIA",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "9",
+    "DATE": "6/13/98",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "MEXICO",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "10",
+    "DATE": "6/13/98",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "BELGIUM",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "11",
+    "DATE": "6/14/98",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "JAPAN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "12",
+    "DATE": "6/14/98",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "IRAN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "13",
+    "DATE": "6/14/98",
+    "TEAM1": "JAMAICA",
+    "TEAM2": "CROATIA",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "14",
+    "DATE": "6/15/98",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "TUNISIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "15",
+    "DATE": "6/15/98",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "COLOMBIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "16",
+    "DATE": "6/15/98",
+    "TEAM1": "GERMANY",
+    "TEAM2": "USA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "17",
+    "DATE": "6/16/98",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "NORWAY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "18",
+    "DATE": "6/16/98",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "MOROCCO",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "19",
+    "DATE": "6/17/98",
+    "TEAM1": "CHILE",
+    "TEAM2": "AUSTRIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "20",
+    "DATE": "6/17/98",
+    "TEAM1": "ITALY",
+    "TEAM2": "CAMEROON",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "21",
+    "DATE": "6/18/98",
+    "TEAM1": "SOUTH AFRICA",
+    "TEAM2": "DENMARK",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "22",
+    "DATE": "6/18/98",
+    "TEAM1": "FRANCE",
+    "TEAM2": "SAUDI ARABIA",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "23",
+    "DATE": "6/19/98",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "BULGARIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "24",
+    "DATE": "6/19/98",
+    "TEAM1": "SPAIN",
+    "TEAM2": "PARAGUAY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "25",
+    "DATE": "6/20/98",
+    "TEAM1": "JAPAN",
+    "TEAM2": "CROATIA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "26",
+    "DATE": "6/20/98",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "27",
+    "DATE": "6/20/98",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "5",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "28",
+    "DATE": "6/21/98",
+    "TEAM1": "GERMANY",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "29",
+    "DATE": "6/21/98",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "JAMAICA",
+    "T1G": "5",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "30",
+    "DATE": "6/21/98",
+    "TEAM1": "USA",
+    "TEAM2": "IRAN",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "31",
+    "DATE": "6/22/98",
+    "TEAM1": "COLOMBIA",
+    "TEAM2": "TUNISIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "32",
+    "DATE": "6/22/98",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "ENGLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "33",
+    "DATE": "6/23/98",
+    "TEAM1": "ITALY",
+    "TEAM2": "AUSTRIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "34",
+    "DATE": "6/23/98",
+    "TEAM1": "CHILE",
+    "TEAM2": "CAMEROON",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "35",
+    "DATE": "6/23/98",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "MOROCCO",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "36",
+    "DATE": "6/23/98",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "NORWAY",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "37",
+    "DATE": "6/24/98",
+    "TEAM1": "FRANCE",
+    "TEAM2": "DENMARK",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "38",
+    "DATE": "6/24/98",
+    "TEAM1": "SOUTH AFRICA",
+    "TEAM2": "SAUDI ARABIA",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "39",
+    "DATE": "6/24/98",
+    "TEAM1": "SPAIN",
+    "TEAM2": "BULGARIA",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "40",
+    "DATE": "6/24/98",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "PARAGUAY",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "41",
+    "DATE": "6/25/98",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "42",
+    "DATE": "6/25/98",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "43",
+    "DATE": "6/25/98",
+    "TEAM1": "GERMANY",
+    "TEAM2": "IRAN",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "44",
+    "DATE": "6/25/98",
+    "TEAM1": "USA",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "45",
+    "DATE": "6/26/98",
+    "TEAM1": "JAPAN",
+    "TEAM2": "JAMAICA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "46",
+    "DATE": "6/26/98",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "CROATIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "47",
+    "DATE": "6/26/98",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "TUNISIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "48",
+    "DATE": "6/26/98",
+    "TEAM1": "COLOMBIA",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "49",
+    "DATE": "6/27/98",
+    "TEAM1": "ITALY",
+    "TEAM2": "NORWAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "50",
+    "DATE": "6/27/98",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CHILE",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "51",
+    "DATE": "6/28/98",
+    "TEAM1": "FRANCE",
+    "TEAM2": "PARAGUAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "52",
+    "DATE": "6/28/98",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "DENMARK",
+    "T1G": "1",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "53",
+    "DATE": "6/29/98",
+    "TEAM1": "GERMANY",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "54",
+    "DATE": "6/29/98",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "55",
+    "DATE": "6/30/98",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "CROATIA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "56",
+    "DATE": "6/30/98",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "ENGLAND",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "57",
+    "DATE": "7/3/98",
+    "TEAM1": "ITALY",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "58",
+    "DATE": "7/3/98",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "DENMARK",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "59",
+    "DATE": "7/4/98",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "ARGENTINA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "60",
+    "DATE": "7/4/98",
+    "TEAM1": "GERMANY",
+    "TEAM2": "CROATIA",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "61",
+    "DATE": "7/7/98",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "62",
+    "DATE": "7/8/98",
+    "TEAM1": "FRANCE",
+    "TEAM2": "CROATIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "63",
+    "DATE": "7/11/98",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "CROATIA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1998",
+    "ROUND": "64",
+    "DATE": "7/12/98",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "1",
+    "DATE": "6/17/94",
+    "TEAM1": "SPAIN",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "2",
+    "DATE": "6/17/94",
+    "TEAM1": "GERMANY",
+    "TEAM2": "BOLIVIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "3",
+    "DATE": "6/18/94",
+    "TEAM1": "USA",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "4",
+    "DATE": "6/18/94",
+    "TEAM1": "ITALY",
+    "TEAM2": "REPUBLIC OF IRELAND",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "5",
+    "DATE": "6/18/94",
+    "TEAM1": "COLOMBIA",
+    "TEAM2": "ROMANIA",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "6",
+    "DATE": "6/19/94",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "MOROCCO",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "7",
+    "DATE": "6/19/94",
+    "TEAM1": "NORWAY",
+    "TEAM2": "MEXICO",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "8",
+    "DATE": "6/19/94",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "SWEDEN",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "9",
+    "DATE": "6/20/94",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "SAUDI ARABIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "10",
+    "DATE": "6/20/94",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "RUSSIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "11",
+    "DATE": "6/21/94",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "GREECE",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "12",
+    "DATE": "6/21/94",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "BULGARIA",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "13",
+    "DATE": "6/21/94",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "14",
+    "DATE": "6/22/94",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "1",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "15",
+    "DATE": "6/22/94",
+    "TEAM1": "USA",
+    "TEAM2": "COLOMBIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "16",
+    "DATE": "6/23/94",
+    "TEAM1": "ITALY",
+    "TEAM2": "NORWAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "17",
+    "DATE": "6/23/94",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "BOLIVIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "18",
+    "DATE": "6/24/94",
+    "TEAM1": "MEXICO",
+    "TEAM2": "REPUBLIC OF IRELAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "19",
+    "DATE": "6/24/94",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "RUSSIA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "20",
+    "DATE": "6/24/94",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CAMEROON",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "21",
+    "DATE": "6/25/94",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "22",
+    "DATE": "6/25/94",
+    "TEAM1": "SAUDI ARABIA",
+    "TEAM2": "MOROCCO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "23",
+    "DATE": "6/25/94",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "NIGERIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "24",
+    "DATE": "6/26/94",
+    "TEAM1": "BULGARIA",
+    "TEAM2": "GREECE",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "25",
+    "DATE": "6/26/94",
+    "TEAM1": "USA",
+    "TEAM2": "ROMANIA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "26",
+    "DATE": "6/26/94",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "COLOMBIA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "27",
+    "DATE": "6/27/94",
+    "TEAM1": "GERMANY",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "28",
+    "DATE": "6/27/94",
+    "TEAM1": "BOLIVIA",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "29",
+    "DATE": "6/28/94",
+    "TEAM1": "REPUBLIC OF IRELAND",
+    "TEAM2": "NORWAY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "30",
+    "DATE": "6/28/94",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SWEDEN",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "31",
+    "DATE": "6/28/94",
+    "TEAM1": "ITALY",
+    "TEAM2": "MEXICO",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "32",
+    "DATE": "6/28/94",
+    "TEAM1": "RUSSIA",
+    "TEAM2": "CAMEROON",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "33",
+    "DATE": "6/29/94",
+    "TEAM1": "MOROCCO",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "34",
+    "DATE": "6/29/94",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "SAUDI ARABIA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "35",
+    "DATE": "6/30/94",
+    "TEAM1": "GREECE",
+    "TEAM2": "NIGERIA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "36",
+    "DATE": "6/30/94",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BULGARIA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "37",
+    "DATE": "7/2/94",
+    "TEAM1": "GERMANY",
+    "TEAM2": "BELGIUM",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "38",
+    "DATE": "7/2/94",
+    "TEAM1": "SPAIN",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "39",
+    "DATE": "7/3/94",
+    "TEAM1": "SAUDI ARABIA",
+    "TEAM2": "SWEDEN",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "40",
+    "DATE": "7/3/94",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "ARGENTINA",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "41",
+    "DATE": "7/4/94",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "REPUBLIC OF IRELAND",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "42",
+    "DATE": "7/4/94",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "USA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "43",
+    "DATE": "7/5/94",
+    "TEAM1": "NIGERIA",
+    "TEAM2": "ITALY",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "44",
+    "DATE": "7/5/94",
+    "TEAM1": "MEXICO",
+    "TEAM2": "BULGARIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "45",
+    "DATE": "7/9/94",
+    "TEAM1": "ITALY",
+    "TEAM2": "SPAIN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "46",
+    "DATE": "7/9/94",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "BRAZIL",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "47",
+    "DATE": "7/10/94",
+    "TEAM1": "BULGARIA",
+    "TEAM2": "GERMANY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "48",
+    "DATE": "7/10/94",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "SWEDEN",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "49",
+    "DATE": "7/13/94",
+    "TEAM1": "BULGARIA",
+    "TEAM2": "ITALY",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "50",
+    "DATE": "7/13/94",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "BRAZIL",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "51",
+    "DATE": "7/16/94",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "BULGARIA",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "USA 1994",
+    "ROUND": "52",
+    "DATE": "7/17/94",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ITALY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "1",
+    "DATE": "6/8/90",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "CAMEROON",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "2",
+    "DATE": "6/9/90",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "ROMANIA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "3",
+    "DATE": "6/9/90",
+    "TEAM1": "UNITED ARAB EMIRATES",
+    "TEAM2": "COLOMBIA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "4",
+    "DATE": "6/9/90",
+    "TEAM1": "ITALY",
+    "TEAM2": "AUSTRIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "5",
+    "DATE": "6/10/90",
+    "TEAM1": "USA",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "1",
+    "T2G": "5",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "6",
+    "DATE": "6/10/90",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SWEDEN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "7",
+    "DATE": "6/10/90",
+    "TEAM1": "GERMANY",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "8",
+    "DATE": "6/11/90",
+    "TEAM1": "COSTA RICA",
+    "TEAM2": "SCOTLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "9",
+    "DATE": "6/11/90",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "REPUBLIC OF IRELAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "10",
+    "DATE": "6/12/90",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "11",
+    "DATE": "6/12/90",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "EGYPT",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "12",
+    "DATE": "6/13/90",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "SPAIN",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "13",
+    "DATE": "6/13/90",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "14",
+    "DATE": "6/14/90",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "ROMANIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "15",
+    "DATE": "6/14/90",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "COLOMBIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "16",
+    "DATE": "6/14/90",
+    "TEAM1": "ITALY",
+    "TEAM2": "USA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "17",
+    "DATE": "6/15/90",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "18",
+    "DATE": "6/15/90",
+    "TEAM1": "GERMANY",
+    "TEAM2": "UNITED ARAB EMIRATES",
+    "T1G": "5",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "19",
+    "DATE": "6/16/90",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "COSTA RICA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "20",
+    "DATE": "6/16/90",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "SCOTLAND",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "21",
+    "DATE": "6/16/90",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "22",
+    "DATE": "6/17/90",
+    "TEAM1": "REPUBLIC OF IRELAND",
+    "TEAM2": "EGYPT",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "23",
+    "DATE": "6/17/90",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "24",
+    "DATE": "6/17/90",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "URUGUAY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "25",
+    "DATE": "6/18/90",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "ROMANIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "26",
+    "DATE": "6/18/90",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "0",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "27",
+    "DATE": "6/19/90",
+    "TEAM1": "GERMANY",
+    "TEAM2": "COLOMBIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "28",
+    "DATE": "6/19/90",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "UNITED ARAB EMIRATES",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "29",
+    "DATE": "6/19/90",
+    "TEAM1": "ITALY",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "30",
+    "DATE": "6/19/90",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "USA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "31",
+    "DATE": "6/20/90",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SCOTLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "32",
+    "DATE": "6/20/90",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "COSTA RICA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "33",
+    "DATE": "6/21/90",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "URUGUAY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "34",
+    "DATE": "6/21/90",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "35",
+    "DATE": "6/21/90",
+    "TEAM1": "REPUBLIC OF IRELAND",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "36",
+    "DATE": "6/21/90",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "EGYPT",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "37",
+    "DATE": "6/23/90",
+    "TEAM1": "CAMEROON",
+    "TEAM2": "COLOMBIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "38",
+    "DATE": "6/23/90",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "COSTA RICA",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "39",
+    "DATE": "6/24/90",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ARGENTINA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "40",
+    "DATE": "6/24/90",
+    "TEAM1": "GERMANY",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "41",
+    "DATE": "6/25/90",
+    "TEAM1": "REPUBLIC OF IRELAND",
+    "TEAM2": "ROMANIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "42",
+    "DATE": "6/25/90",
+    "TEAM1": "ITALY",
+    "TEAM2": "URUGUAY",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "43",
+    "DATE": "6/26/90",
+    "TEAM1": "SPAIN",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "44",
+    "DATE": "6/26/90",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "BELGIUM",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "45",
+    "DATE": "6/30/90",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "ARGENTINA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "46",
+    "DATE": "6/30/90",
+    "TEAM1": "ITALY",
+    "TEAM2": "REPUBLIC OF IRELAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "47",
+    "DATE": "7/1/90",
+    "TEAM1": "GERMANY",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "48",
+    "DATE": "7/1/90",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "CAMEROON",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "49",
+    "DATE": "7/3/90",
+    "TEAM1": "ITALY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "50",
+    "DATE": "7/4/90",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ENGLAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "51",
+    "DATE": "7/7/90",
+    "TEAM1": "ITALY",
+    "TEAM2": "ENGLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1990",
+    "ROUND": "52",
+    "DATE": "7/8/90",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "1",
+    "DATE": "5/31/86",
+    "TEAM1": "BULGARIA",
+    "TEAM2": "ITALY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "2",
+    "DATE": "6/1/86",
+    "TEAM1": "CANADA",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "3",
+    "DATE": "6/1/86",
+    "TEAM1": "SPAIN",
+    "TEAM2": "BRAZIL",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "4",
+    "DATE": "6/2/86",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "HUNGARY",
+    "T1G": "6",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "5",
+    "DATE": "6/2/86",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "6",
+    "DATE": "6/2/86",
+    "TEAM1": "MOROCCO",
+    "TEAM2": "POLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "7",
+    "DATE": "6/3/86",
+    "TEAM1": "ALGERIA",
+    "TEAM2": "NORTHERN IRELAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "8",
+    "DATE": "6/3/86",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "MEXICO",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "9",
+    "DATE": "6/3/86",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "ENGLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "10",
+    "DATE": "6/4/86",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "IRAQ",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "11",
+    "DATE": "6/4/86",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "DENMARK",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "12",
+    "DATE": "6/4/86",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "GERMANY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "13",
+    "DATE": "6/5/86",
+    "TEAM1": "ITALY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "14",
+    "DATE": "6/5/86",
+    "TEAM1": "FRANCE",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "15",
+    "DATE": "6/5/86",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "BULGARIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "16",
+    "DATE": "6/6/86",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "CANADA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "17",
+    "DATE": "6/6/86",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ALGERIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "18",
+    "DATE": "6/6/86",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "MOROCCO",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "19",
+    "DATE": "6/7/86",
+    "TEAM1": "NORTHERN IRELAND",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "20",
+    "DATE": "6/7/86",
+    "TEAM1": "MEXICO",
+    "TEAM2": "PARAGUAY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "21",
+    "DATE": "6/7/86",
+    "TEAM1": "POLAND",
+    "TEAM2": "PORTUGAL",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "22",
+    "DATE": "6/8/86",
+    "TEAM1": "IRAQ",
+    "TEAM2": "BELGIUM",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "23",
+    "DATE": "6/8/86",
+    "TEAM1": "DENMARK",
+    "TEAM2": "URUGUAY",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "24",
+    "DATE": "6/8/86",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SCOTLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "25",
+    "DATE": "6/9/86",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "26",
+    "DATE": "6/9/86",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "CANADA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "27",
+    "DATE": "6/10/86",
+    "TEAM1": "KOREA REPUBLIC",
+    "TEAM2": "ITALY",
+    "T1G": "2",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "28",
+    "DATE": "6/10/86",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BULGARIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "29",
+    "DATE": "6/11/86",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "BELGIUM",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "30",
+    "DATE": "6/11/86",
+    "TEAM1": "IRAQ",
+    "TEAM2": "MEXICO",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "31",
+    "DATE": "6/11/86",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "MOROCCO",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "32",
+    "DATE": "6/11/86",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "POLAND",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "33",
+    "DATE": "6/12/86",
+    "TEAM1": "NORTHERN IRELAND",
+    "TEAM2": "BRAZIL",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "34",
+    "DATE": "6/12/86",
+    "TEAM1": "ALGERIA",
+    "TEAM2": "SPAIN",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "35",
+    "DATE": "6/13/86",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "URUGUAY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "36",
+    "DATE": "6/13/86",
+    "TEAM1": "DENMARK",
+    "TEAM2": "GERMANY",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "37",
+    "DATE": "6/15/86",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "BELGIUM",
+    "T1G": "3",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "38",
+    "DATE": "6/15/86",
+    "TEAM1": "MEXICO",
+    "TEAM2": "BULGARIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "39",
+    "DATE": "6/16/86",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "URUGUAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "40",
+    "DATE": "6/16/86",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "POLAND",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "41",
+    "DATE": "6/17/86",
+    "TEAM1": "ITALY",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "42",
+    "DATE": "6/17/86",
+    "TEAM1": "MOROCCO",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "43",
+    "DATE": "6/18/86",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "PARAGUAY",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "44",
+    "DATE": "6/18/86",
+    "TEAM1": "DENMARK",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "5",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "45",
+    "DATE": "6/21/86",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "FRANCE",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "46",
+    "DATE": "6/21/86",
+    "TEAM1": "GERMANY",
+    "TEAM2": "MEXICO",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "47",
+    "DATE": "6/22/86",
+    "TEAM1": "SPAIN",
+    "TEAM2": "BELGIUM",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "48",
+    "DATE": "6/22/86",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "ENGLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "49",
+    "DATE": "6/25/86",
+    "TEAM1": "FRANCE",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "50",
+    "DATE": "6/25/86",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BELGIUM",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "51",
+    "DATE": "6/28/86",
+    "TEAM1": "FRANCE",
+    "TEAM2": "BELGIUM",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1986",
+    "ROUND": "52",
+    "DATE": "6/29/86",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "GERMANY",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "1",
+    "DATE": "6/13/82",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BELGIUM",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "2",
+    "DATE": "6/14/82",
+    "TEAM1": "ITALY",
+    "TEAM2": "POLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "3",
+    "DATE": "6/14/82",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "4",
+    "DATE": "6/15/82",
+    "TEAM1": "PERU",
+    "TEAM2": "CAMEROON",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "5",
+    "DATE": "6/15/82",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "EI SALVADOR",
+    "T1G": "10",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "6",
+    "DATE": "6/15/82",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "SOVIET ZEALAND",
+    "T1G": "5",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "7",
+    "DATE": "6/16/82",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ALGERIA",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "8",
+    "DATE": "6/16/82",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "FRANCE",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "9",
+    "DATE": "6/16/82",
+    "TEAM1": "SPAIN",
+    "TEAM2": "HONDURAS",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "10",
+    "DATE": "6/17/82",
+    "TEAM1": "CHILE",
+    "TEAM2": "AUSTRIA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "11",
+    "DATE": "6/17/82",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "KUWAIT",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "12",
+    "DATE": "6/17/82",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "NORTHERN IRELAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "13",
+    "DATE": "6/18/82",
+    "TEAM1": "ITALY",
+    "TEAM2": "PERU",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "14",
+    "DATE": "6/18/82",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "HUNGARY",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "15",
+    "DATE": "6/18/82",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SCOTLAND",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "16",
+    "DATE": "6/19/82",
+    "TEAM1": "POLAND",
+    "TEAM2": "CAMEROON",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "17",
+    "DATE": "6/19/82",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "EI SALVADOR",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "18",
+    "DATE": "6/19/82",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "SOVIET ZEALAND",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "19",
+    "DATE": "6/20/82",
+    "TEAM1": "GERMANY",
+    "TEAM2": "CHILE",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "20",
+    "DATE": "6/20/82",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "21",
+    "DATE": "6/20/82",
+    "TEAM1": "SPAIN",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "22",
+    "DATE": "6/21/82",
+    "TEAM1": "ALGERIA",
+    "TEAM2": "AUSTRIA",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "23",
+    "DATE": "6/21/82",
+    "TEAM1": "FRANCE",
+    "TEAM2": "KUWAIT",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "24",
+    "DATE": "6/21/82",
+    "TEAM1": "HONDURAS",
+    "TEAM2": "NORTHERN IRELAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "25",
+    "DATE": "6/22/82",
+    "TEAM1": "POLAND",
+    "TEAM2": "PERU",
+    "T1G": "5",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "26",
+    "DATE": "6/22/82",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "HUNGARY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "27",
+    "DATE": "6/22/82",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "SCOTLAND",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "28",
+    "DATE": "6/23/82",
+    "TEAM1": "ITALY",
+    "TEAM2": "CAMEROON",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "29",
+    "DATE": "6/23/82",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "EI SALVADOR",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "30",
+    "DATE": "6/23/82",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SOVIET ZEALAND",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "31",
+    "DATE": "6/24/82",
+    "TEAM1": "ALGERIA",
+    "TEAM2": "CHILE",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "32",
+    "DATE": "6/24/82",
+    "TEAM1": "FRANCE",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "33",
+    "DATE": "6/24/82",
+    "TEAM1": "HONDURAS",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "34",
+    "DATE": "6/25/82",
+    "TEAM1": "GERMANY",
+    "TEAM2": "AUSTRIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "35",
+    "DATE": "6/25/82",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "KUWAIT",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "36",
+    "DATE": "6/25/82",
+    "TEAM1": "NORTHERN IRELAND",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "37",
+    "DATE": "6/28/82",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "FRANCE",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "38",
+    "DATE": "6/28/82",
+    "TEAM1": "POLAND",
+    "TEAM2": "BELGIUM",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "39",
+    "DATE": "6/29/82",
+    "TEAM1": "ITALY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "40",
+    "DATE": "6/29/82",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "41",
+    "DATE": "7/1/82",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "NORTHERN IRELAND",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "42",
+    "DATE": "7/1/82",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "43",
+    "DATE": "7/2/82",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BRAZIL",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "44",
+    "DATE": "7/2/82",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SPAIN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "45",
+    "DATE": "7/4/82",
+    "TEAM1": "FRANCE",
+    "TEAM2": "NORTHERN IRELAND",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "46",
+    "DATE": "7/4/82",
+    "TEAM1": "POLAND",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "47",
+    "DATE": "7/5/82",
+    "TEAM1": "ITALY",
+    "TEAM2": "BRAZIL",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "48",
+    "DATE": "7/5/82",
+    "TEAM1": "SPAIN",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "49",
+    "DATE": "7/8/82",
+    "TEAM1": "POLAND",
+    "TEAM2": "ITALY",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "50",
+    "DATE": "7/8/82",
+    "TEAM1": "GERMANY",
+    "TEAM2": "FRANCE",
+    "T1G": "3",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "51",
+    "DATE": "7/10/82",
+    "TEAM1": "POLAND",
+    "TEAM2": "FRANCE",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Spain 1982",
+    "ROUND": "52",
+    "DATE": "7/11/82",
+    "TEAM1": "ITALY",
+    "TEAM2": "GERMANY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "1",
+    "DATE": "6/1/78",
+    "TEAM1": "GERMANY",
+    "TEAM2": "POLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "2",
+    "DATE": "6/2/78",
+    "TEAM1": "ITALY",
+    "TEAM2": "FRANCE",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "3",
+    "DATE": "6/2/78",
+    "TEAM1": "TUNISIA",
+    "TEAM2": "MEXICO",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "4",
+    "DATE": "6/2/78",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "HUNGARY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "5",
+    "DATE": "6/3/78",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "BRAZIL",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "6",
+    "DATE": "6/3/78",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "SPAIN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "7",
+    "DATE": "6/3/78",
+    "TEAM1": "PERU",
+    "TEAM2": "SCOTLAND",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "8",
+    "DATE": "6/3/78",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "IRAN",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "9",
+    "DATE": "6/6/78",
+    "TEAM1": "ITALY",
+    "TEAM2": "HUNGARY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "10",
+    "DATE": "6/6/78",
+    "TEAM1": "POLAND",
+    "TEAM2": "TUNISIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "11",
+    "DATE": "6/6/78",
+    "TEAM1": "GERMANY",
+    "TEAM2": "MEXICO",
+    "T1G": "6",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "12",
+    "DATE": "6/6/78",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "FRANCE",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "13",
+    "DATE": "6/7/78",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SPAIN",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "14",
+    "DATE": "6/7/78",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "SWEDEN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "15",
+    "DATE": "6/7/78",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "IRAN",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "16",
+    "DATE": "6/7/78",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "PERU",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "17",
+    "DATE": "6/10/78",
+    "TEAM1": "FRANCE",
+    "TEAM2": "HUNGARY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "18",
+    "DATE": "6/10/78",
+    "TEAM1": "POLAND",
+    "TEAM2": "MEXICO",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "19",
+    "DATE": "6/10/78",
+    "TEAM1": "GERMANY",
+    "TEAM2": "TUNISIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "20",
+    "DATE": "6/10/78",
+    "TEAM1": "ITALY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "21",
+    "DATE": "6/11/78",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "AUSTRIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "22",
+    "DATE": "6/11/78",
+    "TEAM1": "SPAIN",
+    "TEAM2": "SWEDEN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "23",
+    "DATE": "6/11/78",
+    "TEAM1": "PERU",
+    "TEAM2": "IRAN",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "24",
+    "DATE": "6/11/78",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "25",
+    "DATE": "6/14/78",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ITALY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "26",
+    "DATE": "6/14/78",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "AUSTRIA",
+    "T1G": "5",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "27",
+    "DATE": "6/14/78",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "PERU",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "28",
+    "DATE": "6/14/78",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "POLAND",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "29",
+    "DATE": "6/18/78",
+    "TEAM1": "POLAND",
+    "TEAM2": "PERU",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "30",
+    "DATE": "6/18/78",
+    "TEAM1": "ITALY",
+    "TEAM2": "AUSTRIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "31",
+    "DATE": "6/18/78",
+    "TEAM1": "GERMANY",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "32",
+    "DATE": "6/18/78",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BRAZIL",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "33",
+    "DATE": "6/21/78",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "ITALY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "34",
+    "DATE": "6/21/78",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "GERMANY",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "35",
+    "DATE": "6/21/78",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "POLAND",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "36",
+    "DATE": "6/21/78",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "PERU",
+    "T1G": "6",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "37",
+    "DATE": "6/24/78",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ITALY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Argentina 1978",
+    "ROUND": "38",
+    "DATE": "6/25/78",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "1",
+    "DATE": "6/13/74",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "2",
+    "DATE": "6/14/74",
+    "TEAM1": "GERMANY",
+    "TEAM2": "CHILE",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "4",
+    "DATE": "6/14/74",
+    "TEAM1": "ZAIRE",
+    "TEAM2": "SCOTLAND",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "5",
+    "DATE": "6/15/74",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "6",
+    "DATE": "6/15/74",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "BULGARIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "7",
+    "DATE": "6/15/74",
+    "TEAM1": "ITALY",
+    "TEAM2": "HAITI",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "8",
+    "DATE": "6/15/74",
+    "TEAM1": "POLAND",
+    "TEAM2": "ARGENTINA",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "9",
+    "DATE": "6/18/74",
+    "TEAM1": "AUSTRALIA",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "10",
+    "DATE": "6/18/74",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "BRAZIL",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "12",
+    "DATE": "6/18/74",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "ZAIRE",
+    "T1G": "9",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "13",
+    "DATE": "6/19/74",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "SWEDEN",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "14",
+    "DATE": "6/19/74",
+    "TEAM1": "BULGARIA",
+    "TEAM2": "URUGUAY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "15",
+    "DATE": "6/19/74",
+    "TEAM1": "HAITI",
+    "TEAM2": "POLAND",
+    "T1G": "0",
+    "T2G": "7",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "16",
+    "DATE": "6/19/74",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "ITALY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "17",
+    "DATE": "6/22/74",
+    "TEAM1": "SCOTLAND",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "18",
+    "DATE": "6/22/74",
+    "TEAM1": "AUSTRALIA",
+    "TEAM2": "CHILE",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "19",
+    "DATE": "6/22/74",
+    "TEAM1": "ZAIRE",
+    "TEAM2": "BRAZIL",
+    "T1G": "0",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "21",
+    "DATE": "6/23/74",
+    "TEAM1": "BULGARIA",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "1",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "22",
+    "DATE": "6/23/74",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "HAITI",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "23",
+    "DATE": "6/23/74",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "URUGUAY",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "24",
+    "DATE": "6/23/74",
+    "TEAM1": "POLAND",
+    "TEAM2": "ITALY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "25",
+    "DATE": "6/26/74",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "27",
+    "DATE": "6/26/74",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "ARGENTINA",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "28",
+    "DATE": "6/26/74",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "POLAND",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "29",
+    "DATE": "6/30/74",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BRAZIL",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "30",
+    "DATE": "6/30/74",
+    "TEAM1": "POLAND",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "32",
+    "DATE": "6/30/74",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SWEDEN",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "33",
+    "DATE": "7/3/74",
+    "TEAM1": "POLAND",
+    "TEAM2": "GERMANY",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "34",
+    "DATE": "7/3/74",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "BRAZIL",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "36",
+    "DATE": "7/3/74",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "37",
+    "DATE": "7/6/74",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "POLAND",
+    "T1G": "0",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "1974 Germany",
+    "ROUND": "38",
+    "DATE": "7/7/74",
+    "TEAM1": "NETHERLANDS",
+    "TEAM2": "GERMANY",
+    "T1G": "1",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "1",
+    "DATE": "5/31/70",
+    "TEAM1": "MEXICO",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "2",
+    "DATE": "6/2/70",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "ISRAEL",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "3",
+    "DATE": "6/2/70",
+    "TEAM1": "PERU",
+    "TEAM2": "BULGARIA",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "4",
+    "DATE": "6/2/70",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "ROMANIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "5",
+    "DATE": "6/3/70",
+    "TEAM1": "ITALY",
+    "TEAM2": "SWEDEN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "6",
+    "DATE": "6/3/70",
+    "TEAM1": "GERMANY",
+    "TEAM2": "MOROCCO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "7",
+    "DATE": "6/3/70",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "8",
+    "DATE": "6/3/70",
+    "TEAM1": "BELGIUM",
+    "TEAM2": "EI SALVADOR",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "9",
+    "DATE": "6/6/70",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "ITALY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "10",
+    "DATE": "6/6/70",
+    "TEAM1": "PERU",
+    "TEAM2": "MOROCCO",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "11",
+    "DATE": "6/6/70",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "12",
+    "DATE": "6/6/70",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "BELGIUM",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "13",
+    "DATE": "6/7/70",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "ISRAEL",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "14",
+    "DATE": "6/7/70",
+    "TEAM1": "GERMANY",
+    "TEAM2": "BULGARIA",
+    "T1G": "5",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "15",
+    "DATE": "6/7/70",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ENGLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "16",
+    "DATE": "6/7/70",
+    "TEAM1": "MEXICO",
+    "TEAM2": "EI SALVADOR",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "17",
+    "DATE": "6/10/70",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "URUGUAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "18",
+    "DATE": "6/10/70",
+    "TEAM1": "GERMANY",
+    "TEAM2": "PERU",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "19",
+    "DATE": "6/10/70",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ROMANIA",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "20",
+    "DATE": "6/10/70",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "EI SALVADOR",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "21",
+    "DATE": "6/11/70",
+    "TEAM1": "ITALY",
+    "TEAM2": "ISRAEL",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "22",
+    "DATE": "6/11/70",
+    "TEAM1": "BULGARIA",
+    "TEAM2": "MOROCCO",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "23",
+    "DATE": "6/11/70",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "24",
+    "DATE": "6/11/70",
+    "TEAM1": "MEXICO",
+    "TEAM2": "BELGIUM",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "25",
+    "DATE": "6/14/70",
+    "TEAM1": "ITALY",
+    "TEAM2": "MEXICO",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "26",
+    "DATE": "6/14/70",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ENGLAND",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "27",
+    "DATE": "6/14/70",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "PERU",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "28",
+    "DATE": "6/14/70",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "29",
+    "DATE": "6/17/70",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "URUGUAY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "30",
+    "DATE": "6/17/70",
+    "TEAM1": "ITALY",
+    "TEAM2": "GERMANY",
+    "T1G": "4",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "31",
+    "DATE": "6/20/70",
+    "TEAM1": "GERMANY",
+    "TEAM2": "URUGUAY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Mexico 1970",
+    "ROUND": "32",
+    "DATE": "6/21/70",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ITALY",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "1",
+    "DATE": "7/11/66",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "URUGUAY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "2",
+    "DATE": "7/12/66",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "5",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "3",
+    "DATE": "7/12/66",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "BULGARIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "4",
+    "DATE": "7/12/66",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "KOREA DPR",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "5",
+    "DATE": "7/13/66",
+    "TEAM1": "FRANCE",
+    "TEAM2": "MEXICO",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "6",
+    "DATE": "7/13/66",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "HUNGARY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "7",
+    "DATE": "7/13/66",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "SPAIN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "8",
+    "DATE": "7/13/66",
+    "TEAM1": "ITALY",
+    "TEAM2": "CHILE",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "9",
+    "DATE": "7/15/66",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "FRANCE",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "10",
+    "DATE": "7/15/66",
+    "TEAM1": "SPAIN",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "11",
+    "DATE": "7/15/66",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "BRAZIL",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "12",
+    "DATE": "7/15/66",
+    "TEAM1": "KOREA DPR",
+    "TEAM2": "CHILE",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "13",
+    "DATE": "7/16/66",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "BULGARIA",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "14",
+    "DATE": "7/16/66",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "15",
+    "DATE": "7/16/66",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "ITALY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "16",
+    "DATE": "7/16/66",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "17",
+    "DATE": "7/19/66",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "MEXICO",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "18",
+    "DATE": "7/19/66",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "19",
+    "DATE": "7/19/66",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "BRAZIL",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "20",
+    "DATE": "7/19/66",
+    "TEAM1": "KOREA DPR",
+    "TEAM2": "ITALY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "21",
+    "DATE": "7/20/66",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "FRANCE",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "22",
+    "DATE": "7/20/66",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "BULGARIA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "23",
+    "DATE": "7/20/66",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SPAIN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "24",
+    "DATE": "7/20/66",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "CHILE",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "25",
+    "DATE": "7/23/66",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "ARGENTINA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "26",
+    "DATE": "7/23/66",
+    "TEAM1": "GERMANY",
+    "TEAM2": "URUGUAY",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "27",
+    "DATE": "7/23/66",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "HUNGARY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "28",
+    "DATE": "7/23/66",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "KOREA DPR",
+    "T1G": "5",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "29",
+    "DATE": "7/25/66",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "30",
+    "DATE": "7/26/66",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "PORTUGAL",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "31",
+    "DATE": "7/28/66",
+    "TEAM1": "PORTUGAL",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "England 1966",
+    "ROUND": "32",
+    "DATE": "7/30/66",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "GERMANY",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "1",
+    "DATE": "5/30/62",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "COLOMBIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "2",
+    "DATE": "5/30/62",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "3",
+    "DATE": "5/30/62",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "BULGARIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "4",
+    "DATE": "5/30/62",
+    "TEAM1": "CHILE",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "5",
+    "DATE": "5/31/62",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "6",
+    "DATE": "5/31/62",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "7",
+    "DATE": "5/31/62",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "ENGLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "8",
+    "DATE": "5/31/62",
+    "TEAM1": "GERMANY",
+    "TEAM2": "ITALY",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "9",
+    "DATE": "6/2/62",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "URUGUAY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "10",
+    "DATE": "6/2/62",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "11",
+    "DATE": "6/2/62",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "ARGENTINA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "12",
+    "DATE": "6/2/62",
+    "TEAM1": "CHILE",
+    "TEAM2": "ITALY",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "13",
+    "DATE": "6/3/62",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "COLOMBIA",
+    "T1G": "4",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "14",
+    "DATE": "6/3/62",
+    "TEAM1": "SPAIN",
+    "TEAM2": "MEXICO",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "15",
+    "DATE": "6/3/62",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "BULGARIA",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "16",
+    "DATE": "6/3/62",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "17",
+    "DATE": "6/6/62",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "URUGUAY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "18",
+    "DATE": "6/6/62",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SPAIN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "19",
+    "DATE": "6/6/62",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "20",
+    "DATE": "6/6/62",
+    "TEAM1": "GERMANY",
+    "TEAM2": "CHILE",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "21",
+    "DATE": "6/7/62",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "COLOMBIA",
+    "T1G": "5",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "22",
+    "DATE": "6/7/62",
+    "TEAM1": "MEXICO",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "23",
+    "DATE": "6/7/62",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "BULGARIA",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "24",
+    "DATE": "6/7/62",
+    "TEAM1": "ITALY",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "25",
+    "DATE": "6/10/62",
+    "TEAM1": "CHILE",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "26",
+    "DATE": "6/10/62",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ENGLAND",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "27",
+    "DATE": "6/10/62",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "HUNGARY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "28",
+    "DATE": "6/10/62",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "GERMANY",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "29",
+    "DATE": "6/13/62",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "30",
+    "DATE": "6/13/62",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CHILE",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "31",
+    "DATE": "6/16/62",
+    "TEAM1": "CHILE",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Chile 1962",
+    "ROUND": "32",
+    "DATE": "6/17/62",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "1",
+    "DATE": "6/8/58",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "MEXICO",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "2",
+    "DATE": "6/8/58",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "ENGLAND",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "3",
+    "DATE": "6/8/58",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "GERMANY",
+    "T1G": "1",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "4",
+    "DATE": "6/8/58",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "WALES",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "5",
+    "DATE": "6/8/58",
+    "TEAM1": "FRANCE",
+    "TEAM2": "PARAGUAY",
+    "T1G": "7",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "6",
+    "DATE": "6/8/58",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "SCOTLAND",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "7",
+    "DATE": "6/8/58",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "AUSTRIA",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "8",
+    "DATE": "6/8/58",
+    "TEAM1": "NORTHERN IRELAND",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "9",
+    "DATE": "6/11/58",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "ENGLAND",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "10",
+    "DATE": "6/11/58",
+    "TEAM1": "MEXICO",
+    "TEAM2": "WALES",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "11",
+    "DATE": "6/11/58",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "SCOTLAND",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "12",
+    "DATE": "6/11/58",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "FRANCE",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "13",
+    "DATE": "6/11/58",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "AUSTRIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "14",
+    "DATE": "6/11/58",
+    "TEAM1": "GERMANY",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "15",
+    "DATE": "6/11/58",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "NORTHERN IRELAND",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "16",
+    "DATE": "6/12/58",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "HUNGARY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "17",
+    "DATE": "6/15/58",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "WALES",
+    "T1G": "0",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "18",
+    "DATE": "6/15/58",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "19",
+    "DATE": "6/15/58",
+    "TEAM1": "GERMANY",
+    "TEAM2": "NORTHERN IRELAND",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "20",
+    "DATE": "6/15/58",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "MEXICO",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "21",
+    "DATE": "6/15/58",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "3",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "22",
+    "DATE": "6/15/58",
+    "TEAM1": "FRANCE",
+    "TEAM2": "SCOTLAND",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "23",
+    "DATE": "6/15/58",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "AUSTRIA",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "24",
+    "DATE": "6/15/58",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "ARGENTINA",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "25",
+    "DATE": "6/17/58",
+    "TEAM1": "SOVIET UNION",
+    "TEAM2": "ENGLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "26",
+    "DATE": "6/17/58",
+    "TEAM1": "NORTHERN IRELAND",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "27",
+    "DATE": "6/17/58",
+    "TEAM1": "WALES",
+    "TEAM2": "HUNGARY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "28",
+    "DATE": "6/19/58",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "WALES",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "29",
+    "DATE": "6/19/58",
+    "TEAM1": "GERMANY",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "30",
+    "DATE": "6/19/58",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "SOVIET UNION",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "31",
+    "DATE": "6/19/58",
+    "TEAM1": "FRANCE",
+    "TEAM2": "NORTHERN IRELAND",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "32",
+    "DATE": "6/24/58",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "GERMANY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "33",
+    "DATE": "6/24/58",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "FRANCE",
+    "T1G": "5",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "34",
+    "DATE": "6/28/58",
+    "TEAM1": "FRANCE",
+    "TEAM2": "GERMANY",
+    "T1G": "6",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Sweden 1958",
+    "ROUND": "35",
+    "DATE": "6/29/58",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SWEDEN",
+    "T1G": "5",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "1",
+    "DATE": "6/16/54",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "2",
+    "DATE": "6/16/54",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "SCOTLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "3",
+    "DATE": "6/16/54",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "MEXICO",
+    "T1G": "5",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "4",
+    "DATE": "6/16/54",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "FRANCE",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "5",
+    "DATE": "6/17/54",
+    "TEAM1": "GERMANY",
+    "TEAM2": "TURKEY",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "6",
+    "DATE": "6/17/54",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "9",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "7",
+    "DATE": "6/17/54",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "BELGIUM",
+    "T1G": "4",
+    "T2G": "4",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "8",
+    "DATE": "6/17/54",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "ITALY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "9",
+    "DATE": "6/19/54",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "SCOTLAND",
+    "T1G": "7",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "10",
+    "DATE": "6/19/54",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "5",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "11",
+    "DATE": "6/19/54",
+    "TEAM1": "FRANCE",
+    "TEAM2": "MEXICO",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "12",
+    "DATE": "6/19/54",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "13",
+    "DATE": "6/20/54",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "GERMANY",
+    "T1G": "8",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "14",
+    "DATE": "6/20/54",
+    "TEAM1": "TURKEY",
+    "TEAM2": "KOREA REPUBLIC",
+    "T1G": "7",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "15",
+    "DATE": "6/20/54",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "16",
+    "DATE": "6/20/54",
+    "TEAM1": "ITALY",
+    "TEAM2": "BELGIUM",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "17",
+    "DATE": "6/23/54",
+    "TEAM1": "GERMANY",
+    "TEAM2": "TURKEY",
+    "T1G": "7",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "18",
+    "DATE": "6/23/54",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "ITALY",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "19",
+    "DATE": "6/26/54",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "ENGLAND",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "20",
+    "DATE": "6/26/54",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "7",
+    "T2G": "5",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "21",
+    "DATE": "6/27/54",
+    "TEAM1": "GERMANY",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "22",
+    "DATE": "6/27/54",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "BRAZIL",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "23",
+    "DATE": "6/30/54",
+    "TEAM1": "GERMANY",
+    "TEAM2": "AUSTRIA",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "24",
+    "DATE": "6/30/54",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "URUGUAY",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "25",
+    "DATE": "7/3/54",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "URUGUAY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Switzerlland 1954",
+    "ROUND": "26",
+    "DATE": "7/4/54",
+    "TEAM1": "GERMANY",
+    "TEAM2": "HUNGARY",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "1",
+    "DATE": "6/24/50",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "MEXICO",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "2",
+    "DATE": "6/25/50",
+    "TEAM1": "ENGLAND",
+    "TEAM2": "CHILE",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "3",
+    "DATE": "6/25/50",
+    "TEAM1": "SPAIN",
+    "TEAM2": "USA",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "4",
+    "DATE": "6/25/50",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "ITALY",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "5",
+    "DATE": "6/25/50",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "6",
+    "DATE": "6/28/50",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "7",
+    "DATE": "6/28/50",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "MEXICO",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "8",
+    "DATE": "6/29/50",
+    "TEAM1": "SPAIN",
+    "TEAM2": "CHILE",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "9",
+    "DATE": "6/29/50",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "PARAGUAY",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "10",
+    "DATE": "6/29/50",
+    "TEAM1": "USA",
+    "TEAM2": "ENGLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "11",
+    "DATE": "7/1/50",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "12",
+    "DATE": "7/2/50",
+    "TEAM1": "SPAIN",
+    "TEAM2": "ENGLAND",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "13",
+    "DATE": "7/2/50",
+    "TEAM1": "ITALY",
+    "TEAM2": "PARAGUAY",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "14",
+    "DATE": "7/2/50",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "BOLIVIA",
+    "T1G": "8",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "15",
+    "DATE": "7/2/50",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "MEXICO",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "16",
+    "DATE": "7/2/50",
+    "TEAM1": "CHILE",
+    "TEAM2": "USA",
+    "T1G": "5",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "17",
+    "DATE": "7/9/50",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "SPAIN",
+    "T1G": "2",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "18",
+    "DATE": "7/9/50",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SWEDEN",
+    "T1G": "7",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "19",
+    "DATE": "7/13/50",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SPAIN",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "20",
+    "DATE": "7/13/50",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "SWEDEN",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "21",
+    "DATE": "7/16/50",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "SPAIN",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Brazil 1950",
+    "ROUND": "22",
+    "DATE": "7/16/50",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "BRAZIL",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "1",
+    "DATE": "6/4/38",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "GERMANY",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "2",
+    "DATE": "6/5/38",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "DUTCH EAS",
+    "T1G": "6",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "3",
+    "DATE": "6/5/38",
+    "TEAM1": "FRANCE",
+    "TEAM2": "BELGIUM",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "4",
+    "DATE": "6/5/38",
+    "TEAM1": "CUBA",
+    "TEAM2": "ROMANIA",
+    "T1G": "3",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "5",
+    "DATE": "6/5/38",
+    "TEAM1": "ITALY",
+    "TEAM2": "NORWAY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "6",
+    "DATE": "6/5/38",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "POLAND",
+    "T1G": "6",
+    "T2G": "5",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "7",
+    "DATE": "6/5/38",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "8",
+    "DATE": "6/9/38",
+    "TEAM1": "CUBA",
+    "TEAM2": "ROMANIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "9",
+    "DATE": "6/9/38",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "GERMANY",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "10",
+    "DATE": "6/12/38",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "11",
+    "DATE": "6/12/38",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "2",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "12",
+    "DATE": "6/12/38",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "CUBA",
+    "T1G": "8",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "13",
+    "DATE": "6/12/38",
+    "TEAM1": "ITALY",
+    "TEAM2": "FRANCE",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "14",
+    "DATE": "6/14/38",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "15",
+    "DATE": "6/16/38",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "SWEDEN",
+    "T1G": "5",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "16",
+    "DATE": "6/16/38",
+    "TEAM1": "ITALY",
+    "TEAM2": "BRAZIL",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "17",
+    "DATE": "6/19/38",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "SWEDEN",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "France 1938",
+    "ROUND": "18",
+    "DATE": "6/19/38",
+    "TEAM1": "ITALY",
+    "TEAM2": "HUNGARY",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "1",
+    "DATE": "5/27/34",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "FRANCE",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "2",
+    "DATE": "5/27/34",
+    "TEAM1": "HUNGARY",
+    "TEAM2": "EGYPT",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "3",
+    "DATE": "5/27/34",
+    "TEAM1": "SWITZERLAND",
+    "TEAM2": "NETHERLANDS",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "4",
+    "DATE": "5/27/34",
+    "TEAM1": "SWEDEN",
+    "TEAM2": "ARGENTINA",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "5",
+    "DATE": "5/27/34",
+    "TEAM1": "GERMANY",
+    "TEAM2": "BELGIUM",
+    "T1G": "5",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "6",
+    "DATE": "5/27/34",
+    "TEAM1": "SPAIN",
+    "TEAM2": "BRAZIL",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "7",
+    "DATE": "5/27/34",
+    "TEAM1": "ITALY",
+    "TEAM2": "USA",
+    "T1G": "7",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "8",
+    "DATE": "5/27/34",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "ROMANIA",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "9",
+    "DATE": "5/31/34",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "SWITZERLAND",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "10",
+    "DATE": "5/31/34",
+    "TEAM1": "GERMANY",
+    "TEAM2": "SWEDEN",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "11",
+    "DATE": "5/31/34",
+    "TEAM1": "ITALY",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "12",
+    "DATE": "5/31/34",
+    "TEAM1": "AUSTRIA",
+    "TEAM2": "HUNGARY",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "13",
+    "DATE": "6/1/34",
+    "TEAM1": "ITALY",
+    "TEAM2": "SPAIN",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "14",
+    "DATE": "6/3/34",
+    "TEAM1": "ITALY",
+    "TEAM2": "AUSTRIA",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "15",
+    "DATE": "6/3/34",
+    "TEAM1": "CZECH REPUBLIC",
+    "TEAM2": "GERMANY",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "16",
+    "DATE": "6/7/34",
+    "TEAM1": "GERMANY",
+    "TEAM2": "AUSTRIA",
+    "T1G": "3",
+    "T2G": "2",
+    "other": ""
+  },
+  {
+    "EDITION": "Italy 1934",
+    "ROUND": "17",
+    "DATE": "6/10/34",
+    "TEAM1": "ITALY",
+    "TEAM2": "CZECH REPUBLIC",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "1",
+    "DATE": "7/13/30",
+    "TEAM1": "FRANCE",
+    "TEAM2": "MEXICO",
+    "T1G": "4",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "2",
+    "DATE": "7/13/30",
+    "TEAM1": "USA",
+    "TEAM2": "BELGIUM",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "3",
+    "DATE": "7/14/30",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "BRAZIL",
+    "T1G": "2",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "4",
+    "DATE": "7/14/30",
+    "TEAM1": "ROMANIA",
+    "TEAM2": "PERU",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "5",
+    "DATE": "7/15/30",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "FRANCE",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "6",
+    "DATE": "7/16/30",
+    "TEAM1": "CHILE",
+    "TEAM2": "MEXICO",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "7",
+    "DATE": "7/17/30",
+    "TEAM1": "YUGOSLAVIA",
+    "TEAM2": "BOLIVIA",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "8",
+    "DATE": "7/17/30",
+    "TEAM1": "USA",
+    "TEAM2": "PARAGUAY",
+    "T1G": "3",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "9",
+    "DATE": "7/18/30",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "PERU",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "10",
+    "DATE": "7/19/30",
+    "TEAM1": "CHILE",
+    "TEAM2": "FRANCE",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "11",
+    "DATE": "7/19/30",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "MEXICO",
+    "T1G": "6",
+    "T2G": "3",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "12",
+    "DATE": "7/20/30",
+    "TEAM1": "BRAZIL",
+    "TEAM2": "BOLIVIA",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "13",
+    "DATE": "7/20/30",
+    "TEAM1": "PARAGUAY",
+    "TEAM2": "BELGIUM",
+    "T1G": "1",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "14",
+    "DATE": "7/21/30",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "ROMANIA",
+    "T1G": "4",
+    "T2G": "0",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "15",
+    "DATE": "7/22/30",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "CHILE",
+    "T1G": "3",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "16",
+    "DATE": "7/26/30",
+    "TEAM1": "ARGENTINA",
+    "TEAM2": "USA",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "17",
+    "DATE": "7/27/30",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "YUGOSLAVIA",
+    "T1G": "6",
+    "T2G": "1",
+    "other": ""
+  },
+  {
+    "EDITION": "Uruguay 1930",
+    "ROUND": "18",
+    "DATE": "7/30/30",
+    "TEAM1": "URUGUAY",
+    "TEAM2": "ARGENTINA",
+    "T1G": "4",
+    "T2G": "2",
+    "other": ""
+  }
+]
