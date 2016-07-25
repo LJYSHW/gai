@@ -108,27 +108,31 @@ var pieOpt  = {
     ]
 };
 
-function resetStatic(arr){
+function pre(arr){  //arr是预测的数据
     
     if (arr.length) {
        var p = g1 = g2 = 0;
         _.each(arr, function(it){
             if (it.T1G == it.T2G) {p++;}
-            else if (it.T1G > it.T2G) {g1++;}
+           else if (it.T1G > it.T2G) {g1++;}
             else{g2++;}
         });
         var n = p+g1+g2; 
-        $('#g1-goals').text(percentage(g1,n));
-        $('#p-goals').text(percentage(p,n));
-        $('#g2-goals').text(percentage(g2,n));
-    }else{
-        alert('There is not matches data between the two teams.' )
-        $('#g1-goals').text('0%');
-        $('#p-goals').text('0%');
-        $('#g2-goals').text('0%');
-    }
+        var pw = (percentage(g1,n));
+        var pl = (percentage(g2,n));
+	}
+       // $('#g1-goals').text(percentage(g1,n));
+        //$('#p-goals').text(percentage(p,n));
+       // $('#g2-goals').text(percentage(g2,n));
+ //   }
+   // else{
+      //  alert('There is not matches data between the two teams.' )
+      //  $('#g1-goals').text('0%');
+       // $('#p-goals').text('0%');
+       // $('#g2-goals').text('0%');
+//    }
     
-}
+//}
 
 function setTeamBox($teambox,img,name){
     if (img) {
@@ -208,7 +212,7 @@ function fnStatistic(predictiondata){//gai
 }
 
 
-function prediction(team1,team2,data){
+function prediction(team1,team2,data){  //team1,team2是选定的
     var x = -7,y = 7;
     var t1 = _.find(teams, function(item){
         return item.TEAM ===team1;
@@ -219,15 +223,15 @@ function prediction(team1,team2,data){
 
     var di = t1.getNumerical()-t2.getNumerical();
 
-    var pw = pd = pl = 0;
+    //var pw = pd = pl = 0;
 
     var wn = dn = ln = 0;//在符合di区域中的赢平输次数
     var diteam = [];
     //分三类
     if (di<=x) {
         //积分差同一分类的队伍
-        diteam = _.filter(teams, function(it){
-            return it.TEAM != team1 && (t1.getNumerical()-it.getNumerical()) <= x;
+        diteam = _.filter(teams, function(it){  //it是从teams里选出来的
+            return it.TEAM != team1 && (t1.getNumerical()-it.getNumerical()) <= x; //it.TEAM != team1为了避免两者不是同一个队
         });
     }else if(di>x && di<y){
         //积分差同一分类的队伍
@@ -243,7 +247,7 @@ function prediction(team1,team2,data){
 
     }
     //过滤在此范围（diteam）内的比赛 并计算w l d次数。
-    var arr = _.filter(predictiondata, function(it){//gai
+    var arr = _.filter(predictiondata, function(it){
             var isReturn = false;
             if(it.TEAM1 === team1 && _.find(diteam, function(d){
                 return d.TEAM === it.TEAM2;
@@ -272,8 +276,16 @@ function prediction(team1,team2,data){
     //var pde = percentage(dn,allnum);
     //var ple = percentage(ln,allnum);
 
+    var pwe = wn*pw*10;
+    var ple = ln*pl*10;
+    var pde = 1-wn*pw*10-ln*pl*10;
+
     //重绘饼图
-    drawPie(wn,dn,ln);
+    drawPie(pwe, ple, pde);
     //drawPie(pwe,pde,ple);
+
+    $('#g1-goals').text(percentage(wn,allnum)); //把前面的移到了这里，但是不成功
+    $('#p-goals').text(percentage(dn,allnum));
+    $('#g2-goals').text(percentage(ln,allnum));
 
 }

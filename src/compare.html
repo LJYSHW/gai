@@ -3,6 +3,7 @@
 <head>
 	<title>team data</title>
 	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+	<meta charset="utf-8"／>
 		<link rel="stylesheet" href="assets/bootstrap-3.3.5-dist/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="css/temple.reset.css" />
@@ -11,14 +12,15 @@
 <body>
 <!-- Header -->
 	<header id="header">
-		<h1 id="logo"><a href="index.html">TEAM DATA</a></h1>
+		<h1 id="logo"><a href="index.html">WORLD CUP</a></h1>
 		<nav id="nav">
 			<ul>
 				<li><a href="index.html">HOME</a></li>
-				<li><a href="index.html#two">TEAM</a></li>
-				<li><a id="menu-overview" href="javascript:void(0);">OVERVIEW</a></li>
-                <li><a href="prediction.html">PREEDICTION</a></li>
-				<li><a href="compare2.html">COMPARE</a></li>
+				<li><a href="index.html#two">OVERVIEW</a></li>
+				<li><a id="menu-overview" href="javascript:void(0);">TEAMS</a></li>
+				 <li><a href="compare.html">COMPARISION</a></li>
+				<li><a href="prediction.html">PREEDICTION</a></li>
+               
 			</ul>
 		</nav>
 	</header>
@@ -115,272 +117,56 @@
 		
 	</section>
 <!-- /overview -->
-<script type="text/template" id="template-option-teams">
-    <option value="0">选择球队</option>
-        <optgroup label="A组">
-            <option selected="selected" value="7589">巴西</option>
-            <option value="7602">喀麦隆</option>
-            <option value="7621">克罗地亚</option>
-            <option value="7583">墨西哥</option>
-        </optgroup>
-        <optgroup label="B组">
-            <option value="7591">智利</option>
-            <option value="7609">澳大利亚</option>
-            <option value="7639">西班牙</option>
-            <option value="7632">荷兰</option>
-        </optgroup> 
-        <optgroup label="C组">
-            <option value="7649">希腊</option>
-            <option value="7592">哥伦比亚</option>
-            <option value="7665">科特迪瓦</option>
-            <option value="7613">日本</option>
-        </optgroup> 
-        <optgroup label="D组">
-            <option value="7586">哥斯达黎加</option>
-            <option value="7596">乌拉圭</option>
-            <option value="7631">意大利</option>
-            <option value="7625">英格兰</option>
-        </optgroup> 
-        <optgroup label="E组">
-            <option value="7593">厄瓜多尔</option>
-            <option value="7626">法国</option>
-            <option value="7641">瑞士</option>
-            <option value="7581">洪都拉斯</option>
-		</optgroup> 
-        <optgroup label="F组">
-            <option value="7587">阿根廷</option>
-            <option value="7661">波黑</option>
-            <option value="7605">尼日利亚</option>
-            <option value="7611">伊朗</option>
-        </optgroup> 
-        <optgroup label="G组">
-            <option value="7585">美国</option>
-            <option value="7675">加纳</option>
-            <option value="7627">德国</option>
-            <option value="7635">葡萄牙</option>
-        </optgroup> 
-        <optgroup label="H组">
-            <option value="7601">阿尔及利亚</option>
-            <option value="7619">比利时</option>
-            <option value="7617">韩国</option>
-            <option value="7637">俄罗斯</option>
-        </optgroup>
-</script>
+
 <!-- chart-1 -->
 	<div class="container-fluid" id="compare">
-		<div class="panel ">
-			<div class="panel-header">
-				<h3>球队对比</h3>
-			</div>
-			<div class="panel-body ">
-				<div>
-					<table class="wctable wctable_choose">
-                        <colgroup><col class="tb_col1">
-                        <col class="tb_col2">
-                        <col class="tb_col3">
-                        <col class="tb_col4">
-                        <col class="tb_col5">
-                        </colgroup>
-                        <thead>
-                            <tr class="tr_num">
-                                <th></th>
-                                <th>1</th>
-                                <th>2</th>
-                                <th>3</th>
-                                <th>4</th>
-                            </tr>
-                            <tr class="tr_choose">
-                                <th>名称</th>
-                                <td colspan="4">
-                                    <div class="condition_choose">
-                                        <ul>
-                                            <li>
-                                                <div class="imgbox">
-                                                	<span class="delete_condition">x</span>
-    												<span class="teamflag_b teamflag_7589_b"></span>
-    											</div>
-                                                <p class="team_choose">
-                                                	<select><option value="0" selected>选择球队</option></select>
-                                                </p>
-                                            </li>
-                                            <li>
-                                                <div class="imgbox">
-                                                	<span class="delete_condition">x</span>
-    												<span class="teamflag_b teamflag_7589_b"></span>
-    											</div>
-                                                <p class="team_choose">
-                                                	<select><option value="0" selected>选择球队</option></select>
-                                                </p>
-                                            </li>
-                                            <li>
-                                                <div class="imgbox">
-                                                	<span class="delete_condition">x</span>
-    												<span class="teamflag_b teamflag_7589_b"></span>
-    											</div>
-                                                <p class="team_choose">
-                                                	<select><option value="0" selected>选择球队</option></select>
-                                                </p>
-                                            </li>
-                                            <li>
-                                                <div class="imgbox">
-                                                	<span class="delete_condition">x</span>
-    												<span class="teamflag_b teamflag_7589_b"></span>
-    											</div>
-                                                <p class="team_choose">
-                                                	<select><option value="0" selected>选择球队</option></select>
-                                                </p>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="compare_btn">
-                                        <span class="opr_btn">开始对比</span>
-                                    </div>
-                                </td>
-                            </tr>
-                        </thead>
-                    </table>
-                    <div class="compare_box">
-                        <table class="wctable wctable_compare">
-                            <colgroup>
-                                <col class="tb_col1">
-                                <col class="tb_col2">
-                                <col class="tb_col3">
-                                <col class="tb_col4">
-                                <col class="tb_col5">
-                            </colgroup>
-                            <tbody style="text-algin:left;">
-                                <tr>
-                                    <th>进球</th>
-                                    <td>11</td>
-                                    <td>1</td>
-                                    <td>4</td>
-                                    <td>3</td>
-                                </tr>
-                                <tr>
-                                    <th>助攻</th>
-                                    <td>9</td>
-                                    <td>1</td>
-                                    <td>3</td>
-                                    <td>2</td>
-                                </tr>
-                                <tr>
-                                    <th>射正</th>
-                                    <td>71</td>
-                                    <td>18</td>
-                                    <td>22</td>
-                                    <td>14</td>
-                                </tr>
-                                <tr>
-                                    <th>射门</th>
-                                    <td>110</td>
-                                    <td>40</td>
-                                    <td>34</td>
-                                    <td>27</td>
-                                </tr>
-                                <tr>
-                                    <th>扑救</th>
-                                    <td>27</td>
-                                    <td>26</td>
-                                    <td>7</td>
-                                    <td>15</td>
-                                </tr>
-                                <tr>
-                                    <th>越位</th>
-                                    <td>14</td>
-                                    <td>4</td>
-                                    <td>12</td>
-                                    <td>3</td>
-                                </tr>
-                                <tr>
-                                    <th>黄牌</th>
-                                    <td>14</td>
-                                    <td>4</td>
-                                    <td>3</td>
-                                    <td>6</td>
-                                </tr>
-                                <tr>
-                                    <th>红牌</th>
-                                    <td>0</td>
-                                    <td>1</td>
-                                    <td>0</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <th>传球</th>
-                                    <td>2287</td>
-                                    <td>633</td>
-                                    <td>1386</td>
-                                    <td>824</td>
-                                </tr>
-                                <tr>
-                                    <th>抢断</th>
-                                    <td>115</td>
-                                    <td>23</td>
-                                    <td>8</td>
-                                    <td>42</td>
-                                </tr>
-                                <tr>
-                                    <th>犯规</th>
-                                    <td>123</td>
-                                    <td>37</td>
-                                    <td>28</td>
-                                    <td>50</td>
-                                </tr>
-                                <tr>
-                                    <th>拦截</th>
-                                    <td>513</td>
-                                    <td>125</td>
-                                    <td>184</td>
-                                    <td>144</td>
-                                </tr>
-                                <tr>
-                                    <th>角球</th>
-                                    <td>43</td>
-                                    <td>15</td>
-                                    <td>17</td>
-                                    <td>6</td>
-                                </tr>
-                                <tr>
-                                    <th>失球</th>
-                                    <td>14</td>
-                                    <td>9</td>
-                                    <td>7</td>
-                                    <td>9</td>
-                                </tr>
-                                <tr>
-                                    <th>控球率</th>
-                                    <td>54.1</td>
-                                    <td>43.3</td>
-                                    <td>58.3</td>
-                                    <td>43</td>
-                                </tr>
-                                <tr>
-                                    <th>解围</th>
-                                    <td>56</td>
-                                    <td>28</td>
-                                    <td>11</td>
-                                    <td>25</td>
-                                </tr>
-                            </tbody>
-                        </table>
+        <div class="panel">
+            <div class="panel-header">
+                <h3>TEAMS' DATA COMPARISON</h3>
+            </div>
+            <div class="panel-body">
+             
+                
+                <div class="zd col-md-3  team-box">
+                    <p class="team_choose">
+                        <select></select>
+                    </p>
+                    <div class="imgbox center">
+                        <!-- <span class="delete_condition">x</span> -->
+                        <img class="team-flag"></img>
+                        <h3 class="team-name">TEAM1</h3>
                     </div>
-				</div>
-			</div>
-		</div>
-	</div>
+                </div>
+                <div class="bl col-md-6" style="text-align: center;">
+                    <span class="vs">VS</span>
+                </div>
+                <div class="kd col-md-3 team-box">
+                    <p class="team_choose">
+                        <select></select>
+                    </p>
+                    <div class="imgbox center">
+                        <!-- <span class="delete_condition">x</span> -->
+                        <img class="team-flag"></img>
+                        <h3 class="team-name">TEAM2</h3>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                   <table id="datatable"></table>
+                </div>
+                <div class="col-md-12">
+                   <table id="chart-pie"></table>
+                </div>
+            </div>
+        </div>
+    </div>
 <!-- /chart-1 -->
-    <script src="assets/jquery-1.11.1.min.js"></script>
-    <script src="assets/lodash.min.js"></script>
-    <script src="assets/js/jquery.scrolly.min.js"></script>
-    <script src="assets/js/jquery.dropotron.min.js"></script>
-    <script src="assets/js/jquery.scrollex.min.js"></script>
-    <script src="assets/js/skel.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/echarts/echarts.min.js"></script>
+	<script src="assets/jquery-1.11.1.min.js"></script>
+	<script src="assets/lodash.min.js"></script>
+	<script src="assets/echarts/echarts.min.js"></script>
     <script src="assets/datatables/datatables.min.js"></script>
-    <script src="assets/js/main.js"></script>
 	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="js/compare.js"></script>
+    <script src="js/common.js"></script>
+	<script src="js/compare2.js"></script>
 
 </body>
 </html>
